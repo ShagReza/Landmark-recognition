@@ -1,0 +1,1440 @@
+O_17:O_27:O_110:O_210:O_132:O_232:O_137:O_237:O_144:O_244:O_190:O_290:O_197:O_297:O_1125:O_2125:O_1139:O_2139:O_1143:O_2143:O_1152:O_2152:O_1155:O_2155:O_1167:O_2167:O_1172:O_2172:O_1181:O_2181:O_1212:O_2212:O_1213:O_2213:O_1219:O_2219:O_1225:O_2225:O_1233:O_2233:O_1236:O_2236:O_1242:O_2242:O_1250:O_2250:O_1273:O_2273:O_1274:O_2274:O_1275:O_2275:O_1280:O_2280:O_1283:O_2283:O_1288:O_2288:O_1295:O_2295:
+#------------------------------------
+O_17={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_17_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_17.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_27={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_27_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_27.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_110={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_110_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_110.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_210={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_210_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_210.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_132={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_132_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_132.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_232={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_232_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_232.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_137={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_137_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_137.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_237={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_237_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_237.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_144={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_144_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_144.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_244={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_244_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_244.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_190={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_190_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_190.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_290={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_290_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_290.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_197={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_197_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_197.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_297={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_297_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_297.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1125={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1125_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1125.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2125={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2125_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2125.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1139={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1139_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1139.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2139={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2139_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2139.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1143={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1143_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1143.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2143={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2143_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2143.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1152={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1152_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1152.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2152={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2152_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2152.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1155={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1155_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1155.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2155={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2155_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2155.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1167={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1167_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1167.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2167={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2167_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2167.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1172={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1172_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1172.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2172={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2172_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2172.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1181={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1181_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1181.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2181={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2181_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2181.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1212={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1212_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1212.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2212={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2212_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2212.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1213={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1213_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1213.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2213={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2213_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2213.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1219={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1219_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1219.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2219={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2219_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2219.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1225={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1225_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1225.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2225={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2225_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2225.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1233={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1233_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1233.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2233={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2233_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2233.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1236={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1236_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1236.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2236={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2236_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2236.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1242={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1242_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1242.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2242={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2242_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2242.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1250={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1250_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1250.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2250={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2250_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2250.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1273={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1273_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1273.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2273={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2273_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2273.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1274={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1274_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1274.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2274={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2274_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2274.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1275={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1275_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1275.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2275={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2275_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2275.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1280={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1280_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1280.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2280={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2280_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2280.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1283={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1283_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1283.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2283={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2283_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2283.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1288={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1288_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1288.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2288={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2288_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2288.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_1295={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_1295_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_1295.txt
+}
+#------------------------------------
+
+#------------------------------------
+O_2295={
+    action = "write"
+	traceLevel=2
+	 reader = [
+        readerType = "CNTKTextFormatReader"
+        file = TestFilesInCntkFormat\Test_2295_Context7.txt
+        input = [
+            features = [
+             dim = 270
+                format = "dense"
+            ]
+            labels = [
+                dim = 103
+                format = "dense"
+            ]
+        ]
+    ]
+	modelPath=temp\LandmarkNN.dnn
+	outputNodeNames=HLast
+    outputPath =tempTest\Net_2295.txt
+}
+#------------------------------------

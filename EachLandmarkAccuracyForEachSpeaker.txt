@@ -1,0 +1,550 @@
+
+
+SpeakerName: 11
+MeanState:0.71,         State[1]:0.85, State[2]:0.80, State[3]:0.83, State[4]:0.78, State[5]:0.87, State[6]:0.82, State[7]:0.46, State[8]:0.55, State[9]:0.72, State[10]:0.71, State[11]:0.57, State[12]:0.68, State[13]:0.48, State[14]:0.79, State[15]:0.50, State[16]:0.47, State[17]:0.74, State[18]:0.79, State[19]:0.85, State[20]:0.33, State[21]:0.79, State[22]:0.68, State[23]:0.40, State[24]:0.81, State[25]:0.77, State[26]:0.93, State[27]:0.83, State[28]:0.55, State[29]:0.96, State[30]:0.98, 
+
+SpeakerName: 12
+MeanState:0.65,         State[1]:0.95, State[2]:0.92, State[3]:0.76, State[4]:0.79, State[5]:0.79, State[6]:0.67, State[7]:0.34, State[8]:0.57, State[9]:0.86, State[10]:0.74, State[11]:0.44, State[12]:0.89, State[13]:0.58, State[14]:0.14, State[15]:0.57, State[16]:0.45, State[17]:0.61, State[18]:0.69, State[19]:0.73, State[20]:0.07, State[21]:0.92, State[22]:0.21, State[23]:0.45, State[24]:0.70, State[25]:0.80, State[26]:0.90, State[27]:0.77, State[28]:0.38, State[29]:0.84, State[30]:0.95, 
+
+SpeakerName: 13
+MeanState:0.68,         State[1]:0.89, State[2]:0.88, State[3]:0.79, State[4]:0.56, State[5]:0.53, State[6]:0.69, State[7]:0.48, State[8]:0.71, State[9]:0.84, State[10]:0.87, State[11]:0.45, State[12]:0.75, State[13]:0.60, State[14]:1.00, State[15]:0.72, State[16]:0.17, State[17]:0.84, State[18]:0.61, State[19]:0.92, State[20]:0.07, State[21]:0.52, State[22]:0.79, State[23]:0.54, State[24]:0.89, State[25]:0.75, State[26]:0.88, State[27]:0.33, State[28]:0.66, State[29]:0.82, State[30]:0.92, 
+
+SpeakerName: 14
+MeanState:0.64,         State[1]:0.89, State[2]:0.87, State[3]:0.75, State[4]:0.69, State[5]:0.77, State[6]:0.73, State[7]:0.12, State[8]:0.67, State[9]:0.73, State[10]:0.42, State[11]:0.51, State[12]:0.57, State[13]:0.65, State[14]:0.80, State[15]:0.87, State[16]:0.33, State[17]:0.62, State[18]:0.46, State[19]:0.75, State[20]:0.25, State[21]:0.67, State[22]:0.43, State[23]:0.90, State[24]:0.60, State[25]:0.49, State[26]:0.78, State[27]:0.87, State[28]:0.37, State[29]:0.68, State[30]:0.97, 
+
+SpeakerName: 15
+MeanState:0.73,         State[1]:0.85, State[2]:0.87, State[3]:0.75, State[4]:0.90, State[5]:0.84, State[6]:0.77, State[7]:0.33, State[8]:0.62, State[9]:0.79, State[10]:0.74, State[11]:0.69, State[12]:0.46, State[13]:0.55, State[14]:0.70, State[15]:1.00, State[16]:0.45, State[17]:0.83, State[18]:0.81, State[19]:0.91, State[20]:0.50, State[21]:0.86, State[22]:0.83, State[23]:0.37, State[24]:0.89, State[25]:0.70, State[26]:0.95, State[27]:0.29, State[28]:0.77, State[29]:0.90, State[30]:0.99, 
+
+SpeakerName: 16
+MeanState:0.67,         State[1]:0.91, State[2]:0.87, State[3]:0.78, State[4]:0.84, State[5]:0.94, State[6]:0.82, State[7]:0.37, State[8]:0.82, State[9]:0.81, State[10]:0.79, State[11]:0.59, State[12]:0.35, State[13]:0.77, State[14]:0.11, State[15]:0.63, State[16]:0.48, State[17]:0.71, State[18]:0.61, State[19]:0.76, State[20]:0.33, State[21]:0.75, State[22]:0.75, State[23]:0.27, State[24]:0.79, State[25]:0.35, State[26]:0.90, State[27]:0.61, State[28]:0.55, State[29]:0.91, State[30]:0.89, 
+
+SpeakerName: 17
+MeanState:0.68,         State[1]:0.90, State[2]:0.87, State[3]:0.75, State[4]:0.93, State[5]:0.72, State[6]:0.87, State[7]:0.00, State[8]:0.30, State[9]:0.72, State[10]:0.84, State[11]:0.42, State[12]:0.76, State[13]:0.77, State[14]:0.87, State[15]:0.50, State[16]:0.67, State[17]:0.48, State[18]:0.62, State[19]:0.77, State[20]:0.29, State[21]:0.34, State[22]:0.45, State[23]:0.74, State[24]:0.93, State[25]:0.58, State[26]:0.82, State[27]:0.90, State[28]:0.53, State[29]:0.93, State[30]:0.97, 
+
+SpeakerName: 18
+MeanState:0.64,         State[1]:0.89, State[2]:0.83, State[3]:0.59, State[4]:0.81, State[5]:0.73, State[6]:0.84, State[7]:0.14, State[8]:0.75, State[9]:0.85, State[10]:0.69, State[11]:0.31, State[12]:0.70, State[13]:0.62, State[14]:0.25, State[15]:0.47, State[16]:0.40, State[17]:0.79, State[18]:0.62, State[19]:0.76, State[20]:0.71, State[21]:0.87, State[22]:0.00, State[23]:0.11, State[24]:0.91, State[25]:0.72, State[26]:0.80, State[27]:0.69, State[28]:0.50, State[29]:0.75, State[30]:0.98, 
+
+SpeakerName: 19
+MeanState:0.65,         State[1]:0.81, State[2]:0.91, State[3]:0.73, State[4]:0.71, State[5]:0.56, State[6]:0.85, State[7]:0.42, State[8]:0.69, State[9]:0.72, State[10]:0.67, State[11]:0.19, State[12]:0.47, State[13]:0.65, State[14]:0.37, State[15]:0.54, State[16]:0.35, State[17]:0.83, State[18]:0.74, State[19]:0.89, State[20]:0.00, State[21]:0.82, State[22]:0.93, State[23]:0.31, State[24]:0.85, State[25]:0.81, State[26]:0.82, State[27]:0.30, State[28]:0.66, State[29]:0.90, State[30]:0.96, 
+
+SpeakerName: 110
+MeanState:0.70,         State[1]:0.93, State[2]:0.88, State[3]:0.70, State[4]:0.72, State[5]:0.86, State[6]:0.73, State[7]:0.29, State[8]:0.39, State[9]:0.90, State[10]:0.76, State[11]:0.55, State[12]:0.66, State[13]:0.47, State[14]:0.54, State[15]:0.80, State[16]:0.67, State[17]:0.41, State[18]:0.61, State[19]:0.86, State[20]:0.71, State[21]:0.69, State[22]:0.77, State[23]:0.45, State[24]:0.79, State[25]:0.89, State[26]:0.93, State[27]:0.50, State[28]:0.69, State[29]:0.94, State[30]:0.91, 
+
+SpeakerName: 111
+MeanState:0.68,         State[1]:0.86, State[2]:0.91, State[3]:0.78, State[4]:0.80, State[5]:0.83, State[6]:0.79, State[7]:0.54, State[8]:0.61, State[9]:0.78, State[10]:0.78, State[11]:0.44, State[12]:0.58, State[13]:0.44, State[14]:0.25, State[15]:0.61, State[16]:0.80, State[17]:0.74, State[18]:0.40, State[19]:0.83, State[20]:0.20, State[21]:0.77, State[22]:0.59, State[23]:0.44, State[24]:0.82, State[25]:0.66, State[26]:0.95, State[27]:0.71, State[28]:0.63, State[29]:0.81, State[30]:0.98, 
+
+SpeakerName: 112
+MeanState:0.70,         State[1]:0.89, State[2]:0.90, State[3]:0.81, State[4]:0.72, State[5]:0.84, State[6]:0.87, State[7]:0.52, State[8]:0.63, State[9]:0.68, State[10]:0.58, State[11]:0.63, State[12]:0.65, State[13]:0.70, State[14]:0.36, State[15]:0.71, State[16]:0.17, State[17]:1.00, State[18]:0.78, State[19]:0.86, State[20]:0.39, State[21]:0.62, State[22]:0.72, State[23]:0.36, State[24]:0.91, State[25]:0.83, State[26]:0.89, State[27]:0.50, State[28]:0.77, State[29]:0.82, State[30]:0.99, 
+
+SpeakerName: 113
+MeanState:0.65,         State[1]:0.83, State[2]:0.92, State[3]:0.77, State[4]:0.74, State[5]:0.45, State[6]:0.86, State[7]:0.14, State[8]:0.73, State[9]:0.70, State[10]:0.63, State[11]:0.37, State[12]:0.64, State[13]:0.38, State[14]:0.25, State[15]:0.83, State[16]:0.14, State[17]:0.82, State[18]:0.81, State[19]:0.76, State[20]:0.44, State[21]:0.77, State[22]:0.43, State[23]:0.73, State[24]:0.83, State[25]:1.00, State[26]:0.90, State[27]:0.25, State[28]:0.56, State[29]:0.84, State[30]:1.00, 
+
+SpeakerName: 114
+MeanState:0.74,         State[1]:0.88, State[2]:0.84, State[3]:0.82, State[4]:0.74, State[5]:0.82, State[6]:0.91, State[7]:0.15, State[8]:0.71, State[9]:0.92, State[10]:0.72, State[11]:0.40, State[12]:0.68, State[13]:0.45, State[14]:0.46, State[15]:0.89, State[16]:0.33, State[17]:0.90, State[18]:0.67, State[19]:0.86, State[20]:0.67, State[21]:0.55, State[22]:0.75, State[23]:1.00, State[24]:0.91, State[25]:0.92, State[26]:0.91, State[27]:0.67, State[28]:0.80, State[29]:0.76, State[30]:0.98, 
+
+SpeakerName: 115
+MeanState:0.56,         State[1]:0.96, State[2]:0.92, State[3]:0.79, State[4]:0.73, State[5]:0.80, State[6]:0.77, State[7]:0.20, State[8]:0.30, State[9]:0.72, State[10]:1.00, State[11]:0.23, State[12]:0.69, State[13]:0.56, State[14]:0.00, State[15]:0.21, State[16]:0.30, State[17]:0.82, State[18]:0.44, State[19]:0.83, State[20]:0.00, State[21]:0.33, State[22]:0.48, State[23]:0.33, State[24]:0.91, State[25]:0.33, State[26]:0.78, State[27]:0.75, State[28]:0.25, State[29]:0.38, State[30]:0.88, 
+
+SpeakerName: 116
+MeanState:0.69,         State[1]:0.74, State[2]:0.93, State[3]:0.77, State[4]:0.84, State[5]:0.89, State[6]:0.78, State[7]:0.27, State[8]:0.25, State[9]:0.72, State[10]:0.76, State[11]:0.55, State[12]:0.61, State[13]:0.47, State[14]:0.25, State[15]:0.67, State[16]:0.20, State[17]:0.93, State[18]:0.76, State[19]:0.84, State[20]:0.32, State[21]:0.89, State[22]:0.50, State[23]:1.00, State[24]:0.78, State[25]:0.87, State[26]:0.87, State[27]:0.67, State[28]:0.77, State[29]:0.81, State[30]:0.91, 
+
+SpeakerName: 117
+MeanState:0.64,         State[1]:0.72, State[2]:0.88, State[3]:0.82, State[4]:0.84, State[5]:0.83, State[6]:0.69, State[7]:0.37, State[8]:0.38, State[9]:0.78, State[10]:0.71, State[11]:0.48, State[12]:0.69, State[13]:0.53, State[14]:0.25, State[15]:0.54, State[16]:0.58, State[17]:0.66, State[18]:0.65, State[19]:0.71, State[20]:0.50, State[21]:0.83, State[22]:0.50, State[23]:0.37, State[24]:0.82, State[25]:0.67, State[26]:0.66, State[27]:0.25, State[28]:0.67, State[29]:0.67, State[30]:0.97, 
+
+SpeakerName: 118
+MeanState:0.74,         State[1]:0.93, State[2]:0.89, State[3]:0.88, State[4]:0.92, State[5]:0.93, State[6]:0.92, State[7]:0.29, State[8]:0.75, State[9]:0.64, State[10]:0.66, State[11]:0.45, State[12]:0.45, State[13]:0.79, State[14]:0.86, State[15]:1.00, State[16]:0.31, State[17]:0.48, State[18]:0.63, State[19]:0.88, State[20]:0.29, State[21]:0.60, State[22]:0.89, State[23]:0.82, State[24]:0.84, State[25]:0.79, State[26]:0.85, State[27]:0.90, State[28]:0.57, State[29]:1.00, State[30]:0.87, 
+
+SpeakerName: 119
+MeanState:0.71,         State[1]:0.83, State[2]:0.96, State[3]:0.86, State[4]:0.88, State[5]:0.90, State[6]:0.88, State[7]:0.65, State[8]:0.92, State[9]:0.79, State[10]:0.57, State[11]:0.61, State[12]:0.71, State[13]:0.28, State[14]:0.69, State[15]:0.61, State[16]:0.15, State[17]:0.64, State[18]:0.74, State[19]:0.83, State[20]:0.50, State[21]:0.77, State[22]:0.90, State[23]:0.92, State[24]:0.91, State[25]:0.55, State[26]:0.91, State[27]:0.17, State[28]:0.37, State[29]:0.85, State[30]:0.96, 
+
+SpeakerName: 120
+MeanState:0.74,         State[1]:0.93, State[2]:0.93, State[3]:0.81, State[4]:0.87, State[5]:0.73, State[6]:0.89, State[7]:0.37, State[8]:0.70, State[9]:0.84, State[10]:0.62, State[11]:0.60, State[12]:0.54, State[13]:0.68, State[14]:0.50, State[15]:0.60, State[16]:0.37, State[17]:0.91, State[18]:0.74, State[19]:0.96, State[20]:0.17, State[21]:0.79, State[22]:0.63, State[23]:0.75, State[24]:0.88, State[25]:0.83, State[26]:0.94, State[27]:0.96, State[28]:0.76, State[29]:0.87, State[30]:0.98, 
+
+SpeakerName: 121
+MeanState:0.66,         State[1]:0.92, State[2]:0.88, State[3]:0.73, State[4]:0.89, State[5]:0.76, State[6]:0.73, State[7]:0.32, State[8]:0.61, State[9]:0.72, State[10]:0.76, State[11]:0.55, State[12]:0.41, State[13]:0.50, State[14]:0.00, State[15]:0.54, State[16]:0.27, State[17]:0.82, State[18]:0.90, State[19]:0.85, State[20]:0.23, State[21]:0.79, State[22]:0.50, State[23]:0.71, State[24]:0.85, State[25]:0.80, State[26]:0.97, State[27]:0.37, State[28]:0.62, State[29]:1.00, State[30]:0.97, 
+
+SpeakerName: 122
+MeanState:0.69,         State[1]:0.88, State[2]:0.89, State[3]:0.77, State[4]:0.85, State[5]:0.91, State[6]:0.82, State[7]:0.45, State[8]:0.65, State[9]:0.82, State[10]:0.75, State[11]:0.35, State[12]:0.93, State[13]:0.53, State[14]:0.25, State[15]:0.62, State[16]:0.41, State[17]:0.76, State[18]:0.69, State[19]:0.88, State[20]:0.00, State[21]:0.33, State[22]:0.62, State[23]:1.00, State[24]:0.71, State[25]:0.77, State[26]:0.92, State[27]:0.52, State[28]:0.75, State[29]:0.97, State[30]:0.96, 
+
+SpeakerName: 123
+MeanState:0.68,         State[1]:0.84, State[2]:0.90, State[3]:0.76, State[4]:0.94, State[5]:0.71, State[6]:0.75, State[7]:0.47, State[8]:0.67, State[9]:0.85, State[10]:0.50, State[11]:0.36, State[12]:0.37, State[13]:0.73, State[14]:0.87, State[15]:0.42, State[16]:0.37, State[17]:0.64, State[18]:0.96, State[19]:0.84, State[20]:0.21, State[21]:0.90, State[22]:0.67, State[23]:0.37, State[24]:0.79, State[25]:0.64, State[26]:0.93, State[27]:0.50, State[28]:0.72, State[29]:0.89, State[30]:0.97, 
+
+SpeakerName: 124
+MeanState:0.57,         State[1]:0.88, State[2]:0.85, State[3]:0.69, State[4]:0.68, State[5]:0.59, State[6]:0.70, State[7]:0.50, State[8]:0.37, State[9]:0.66, State[10]:0.52, State[11]:0.87, State[12]:0.80, State[13]:0.46, State[14]:0.67, State[15]:0.81, State[16]:0.30, State[17]:0.40, State[18]:0.70, State[19]:0.30, State[20]:0.25, State[21]:0.14, State[22]:0.30, State[23]:0.00, State[24]:0.71, State[25]:0.57, State[26]:0.86, State[27]:0.50, State[28]:0.69, State[29]:0.60, State[30]:0.74, 
+
+SpeakerName: 125
+MeanState:0.66,         State[1]:0.89, State[2]:0.80, State[3]:0.73, State[4]:0.68, State[5]:0.89, State[6]:0.76, State[7]:0.34, State[8]:0.45, State[9]:0.84, State[10]:0.69, State[11]:0.32, State[12]:0.64, State[13]:0.49, State[14]:0.85, State[15]:0.62, State[16]:0.45, State[17]:0.83, State[18]:0.55, State[19]:0.73, State[20]:1.00, State[21]:0.10, State[22]:0.37, State[23]:0.83, State[24]:0.80, State[25]:0.62, State[26]:0.86, State[27]:0.90, State[28]:0.25, State[29]:0.71, State[30]:0.89, 
+
+SpeakerName: 126
+MeanState:0.66,         State[1]:0.88, State[2]:0.93, State[3]:0.85, State[4]:0.80, State[5]:0.78, State[6]:0.82, State[7]:0.32, State[8]:0.77, State[9]:0.77, State[10]:0.52, State[11]:0.30, State[12]:0.73, State[13]:0.55, State[14]:0.50, State[15]:0.67, State[16]:0.67, State[17]:0.83, State[18]:0.58, State[19]:0.69, State[20]:0.00, State[21]:0.65, State[22]:0.93, State[23]:0.60, State[24]:0.92, State[25]:0.84, State[26]:0.74, State[27]:0.19, State[28]:0.42, State[29]:0.74, State[30]:0.90, 
+
+SpeakerName: 127
+MeanState:0.64,         State[1]:0.88, State[2]:0.89, State[3]:0.76, State[4]:0.85, State[5]:0.72, State[6]:0.57, State[7]:0.34, State[8]:0.73, State[9]:0.68, State[10]:0.70, State[11]:0.42, State[12]:0.52, State[13]:0.57, State[14]:0.46, State[15]:0.42, State[16]:0.32, State[17]:0.86, State[18]:0.66, State[19]:0.91, State[20]:0.33, State[21]:1.00, State[22]:0.73, State[23]:0.25, State[24]:0.83, State[25]:0.39, State[26]:0.73, State[27]:0.37, State[28]:0.57, State[29]:0.86, State[30]:0.95, 
+
+SpeakerName: 128
+MeanState:0.66,         State[1]:0.85, State[2]:0.89, State[3]:0.78, State[4]:0.79, State[5]:0.81, State[6]:0.80, State[7]:0.29, State[8]:0.24, State[9]:0.62, State[10]:0.63, State[11]:0.47, State[12]:0.60, State[13]:0.40, State[14]:0.79, State[15]:0.40, State[16]:0.43, State[17]:0.56, State[18]:0.79, State[19]:0.95, State[20]:0.50, State[21]:0.75, State[22]:0.85, State[23]:0.61, State[24]:0.77, State[25]:0.67, State[26]:0.88, State[27]:0.17, State[28]:0.59, State[29]:0.96, State[30]:0.95, 
+
+SpeakerName: 129
+MeanState:0.67,         State[1]:0.86, State[2]:0.89, State[3]:0.77, State[4]:0.65, State[5]:0.76, State[6]:0.73, State[7]:0.15, State[8]:0.75, State[9]:0.77, State[10]:0.74, State[11]:0.61, State[12]:0.76, State[13]:0.59, State[14]:0.67, State[15]:0.41, State[16]:0.38, State[17]:0.29, State[18]:0.85, State[19]:0.69, State[20]:0.32, State[21]:1.00, State[22]:0.85, State[23]:0.47, State[24]:0.87, State[25]:0.42, State[26]:0.97, State[27]:0.50, State[28]:0.66, State[29]:0.73, State[30]:0.96, 
+
+SpeakerName: 130
+MeanState:0.64,         State[1]:0.90, State[2]:0.88, State[3]:0.82, State[4]:0.83, State[5]:0.88, State[6]:0.82, State[7]:0.44, State[8]:0.82, State[9]:0.87, State[10]:0.69, State[11]:0.40, State[12]:0.66, State[13]:0.68, State[14]:0.47, State[15]:0.31, State[16]:0.45, State[17]:0.75, State[18]:0.48, State[19]:0.60, State[20]:0.56, State[21]:0.57, State[22]:0.36, State[23]:0.42, State[24]:0.91, State[25]:0.62, State[26]:0.89, State[27]:0.00, State[28]:0.49, State[29]:0.81, State[30]:0.86, 
+
+SpeakerName: 131
+MeanState:0.64,         State[1]:0.88, State[2]:0.90, State[3]:0.84, State[4]:0.87, State[5]:0.94, State[6]:0.94, State[7]:0.39, State[8]:0.64, State[9]:0.78, State[10]:0.67, State[11]:0.27, State[12]:0.50, State[13]:0.50, State[14]:0.67, State[15]:0.83, State[16]:0.42, State[17]:0.62, State[18]:0.51, State[19]:0.60, State[20]:0.17, State[21]:0.78, State[22]:0.00, State[23]:0.20, State[24]:0.77, State[25]:0.57, State[26]:0.84, State[27]:0.67, State[28]:0.37, State[29]:0.97, State[30]:1.00, 
+
+SpeakerName: 132
+MeanState:0.61,         State[1]:0.84, State[2]:0.86, State[3]:0.62, State[4]:0.80, State[5]:0.85, State[6]:0.66, State[7]:0.08, State[8]:0.36, State[9]:0.68, State[10]:0.53, State[11]:0.32, State[12]:0.67, State[13]:0.36, State[14]:0.53, State[15]:0.71, State[16]:0.52, State[17]:0.67, State[18]:0.71, State[19]:0.68, State[20]:0.07, State[21]:0.54, State[22]:0.54, State[23]:0.44, State[24]:0.93, State[25]:0.64, State[26]:0.88, State[27]:0.87, State[28]:0.63, State[29]:0.33, State[30]:0.94, 
+
+SpeakerName: 133
+MeanState:0.71,         State[1]:0.90, State[2]:0.92, State[3]:0.84, State[4]:0.81, State[5]:0.94, State[6]:0.93, State[7]:0.73, State[8]:0.68, State[9]:0.76, State[10]:0.85, State[11]:0.37, State[12]:0.72, State[13]:0.62, State[14]:0.62, State[15]:0.54, State[16]:0.23, State[17]:0.43, State[18]:0.63, State[19]:0.97, State[20]:0.62, State[21]:0.50, State[22]:0.65, State[23]:0.69, State[24]:0.88, State[25]:0.66, State[26]:0.90, State[27]:0.39, State[28]:0.62, State[29]:0.90, State[30]:0.94, 
+
+SpeakerName: 134
+MeanState:0.69,         State[1]:0.79, State[2]:0.88, State[3]:0.78, State[4]:0.68, State[5]:0.83, State[6]:0.82, State[7]:0.50, State[8]:0.39, State[9]:0.82, State[10]:0.84, State[11]:0.43, State[12]:0.58, State[13]:0.45, State[14]:0.45, State[15]:0.83, State[16]:0.33, State[17]:0.64, State[18]:0.67, State[19]:0.84, State[20]:0.37, State[21]:0.71, State[22]:0.58, State[23]:0.43, State[24]:0.89, State[25]:0.75, State[26]:0.97, State[27]:0.94, State[28]:0.73, State[29]:0.81, State[30]:0.92, 
+
+SpeakerName: 135
+MeanState:0.68,         State[1]:0.90, State[2]:0.79, State[3]:0.56, State[4]:0.84, State[5]:0.81, State[6]:0.80, State[7]:0.27, State[8]:0.59, State[9]:0.81, State[10]:0.71, State[11]:0.54, State[12]:0.90, State[13]:0.70, State[14]:0.61, State[15]:0.54, State[16]:0.27, State[17]:0.78, State[18]:0.78, State[19]:0.68, State[20]:0.10, State[21]:0.83, State[22]:0.44, State[23]:0.53, State[24]:0.95, State[25]:0.86, State[26]:0.72, State[27]:0.73, State[28]:0.65, State[29]:0.89, State[30]:0.91, 
+
+SpeakerName: 136
+MeanState:0.69,         State[1]:0.86, State[2]:0.89, State[3]:0.78, State[4]:0.71, State[5]:0.72, State[6]:0.87, State[7]:0.48, State[8]:0.56, State[9]:0.75, State[10]:0.91, State[11]:0.43, State[12]:0.55, State[13]:0.36, State[14]:0.37, State[15]:0.45, State[16]:0.44, State[17]:0.57, State[18]:0.69, State[19]:0.94, State[20]:0.58, State[21]:0.94, State[22]:0.64, State[23]:0.69, State[24]:0.83, State[25]:0.78, State[26]:0.80, State[27]:0.50, State[28]:0.61, State[29]:1.00, State[30]:0.95, 
+
+SpeakerName: 137
+MeanState:0.64,         State[1]:0.90, State[2]:0.76, State[3]:0.56, State[4]:0.63, State[5]:0.56, State[6]:0.70, State[7]:0.46, State[8]:0.74, State[9]:0.65, State[10]:0.76, State[11]:0.28, State[12]:0.63, State[13]:0.85, State[14]:0.57, State[15]:0.87, State[16]:0.41, State[17]:0.67, State[18]:0.64, State[19]:0.65, State[20]:0.17, State[21]:0.83, State[22]:0.23, State[23]:0.42, State[24]:0.87, State[25]:0.61, State[26]:0.96, State[27]:0.33, State[28]:0.77, State[29]:0.83, State[30]:0.97, 
+
+SpeakerName: 138
+MeanState:0.66,         State[1]:0.88, State[2]:0.87, State[3]:0.82, State[4]:0.87, State[5]:0.83, State[6]:0.85, State[7]:0.73, State[8]:0.42, State[9]:0.79, State[10]:0.77, State[11]:0.43, State[12]:0.48, State[13]:0.70, State[14]:0.50, State[15]:0.22, State[16]:0.24, State[17]:0.70, State[18]:0.62, State[19]:0.87, State[20]:0.17, State[21]:0.58, State[22]:0.32, State[23]:0.78, State[24]:0.88, State[25]:0.69, State[26]:0.87, State[27]:0.74, State[28]:0.21, State[29]:0.93, State[30]:0.90, 
+
+SpeakerName: 139
+MeanState:0.68,         State[1]:0.88, State[2]:0.84, State[3]:0.66, State[4]:0.83, State[5]:0.51, State[6]:0.79, State[7]:0.40, State[8]:0.56, State[9]:0.83, State[10]:0.76, State[11]:0.55, State[12]:0.52, State[13]:0.77, State[14]:0.55, State[15]:0.74, State[16]:0.40, State[17]:0.83, State[18]:0.77, State[19]:0.75, State[20]:0.47, State[21]:0.75, State[22]:0.61, State[23]:0.35, State[24]:0.86, State[25]:1.00, State[26]:0.93, State[27]:0.33, State[28]:0.69, State[29]:0.64, State[30]:0.95, 
+
+SpeakerName: 140
+MeanState:0.68,         State[1]:0.89, State[2]:0.79, State[3]:0.79, State[4]:0.81, State[5]:0.87, State[6]:0.75, State[7]:0.52, State[8]:0.90, State[9]:0.69, State[10]:0.77, State[11]:0.49, State[12]:0.52, State[13]:0.76, State[14]:0.37, State[15]:0.83, State[16]:0.10, State[17]:0.82, State[18]:0.67, State[19]:0.87, State[20]:0.17, State[21]:0.83, State[22]:0.12, State[23]:0.68, State[24]:0.89, State[25]:1.00, State[26]:0.90, State[27]:0.71, State[28]:0.08, State[29]:0.89, State[30]:0.98, 
+
+SpeakerName: 141
+MeanState:0.68,         State[1]:0.90, State[2]:0.84, State[3]:0.75, State[4]:0.81, State[5]:0.76, State[6]:0.83, State[7]:0.48, State[8]:0.64, State[9]:0.67, State[10]:0.48, State[11]:0.70, State[12]:0.56, State[13]:0.72, State[14]:0.25, State[15]:0.58, State[16]:0.37, State[17]:0.71, State[18]:0.75, State[19]:0.86, State[20]:0.75, State[21]:0.83, State[22]:0.25, State[23]:0.42, State[24]:0.83, State[25]:0.78, State[26]:0.90, State[27]:0.50, State[28]:0.76, State[29]:0.69, State[30]:0.98, 
+
+SpeakerName: 142
+MeanState:0.68,         State[1]:0.86, State[2]:0.88, State[3]:0.74, State[4]:0.89, State[5]:0.89, State[6]:0.75, State[7]:0.46, State[8]:0.67, State[9]:0.95, State[10]:0.81, State[11]:0.39, State[12]:0.57, State[13]:0.69, State[14]:0.20, State[15]:0.57, State[16]:0.37, State[17]:0.61, State[18]:0.49, State[19]:0.80, State[20]:0.53, State[21]:0.50, State[22]:0.71, State[23]:0.32, State[24]:0.89, State[25]:0.77, State[26]:0.90, State[27]:0.73, State[28]:0.68, State[29]:0.85, State[30]:0.89, 
+
+SpeakerName: 143
+MeanState:0.73,         State[1]:0.90, State[2]:0.87, State[3]:0.76, State[4]:0.89, State[5]:0.90, State[6]:0.91, State[7]:0.48, State[8]:0.72, State[9]:0.79, State[10]:0.69, State[11]:0.58, State[12]:0.55, State[13]:0.70, State[14]:0.58, State[15]:0.79, State[16]:0.25, State[17]:0.92, State[18]:0.79, State[19]:0.78, State[20]:0.30, State[21]:0.83, State[22]:0.92, State[23]:0.62, State[24]:0.92, State[25]:0.62, State[26]:0.93, State[27]:0.63, State[28]:0.25, State[29]:0.94, State[30]:0.97, 
+
+SpeakerName: 144
+MeanState:0.65,         State[1]:0.72, State[2]:0.89, State[3]:0.67, State[4]:0.85, State[5]:0.63, State[6]:0.65, State[7]:0.17, State[8]:0.41, State[9]:0.75, State[10]:0.72, State[11]:0.52, State[12]:0.45, State[13]:0.49, State[14]:0.34, State[15]:0.82, State[16]:0.37, State[17]:0.57, State[18]:0.69, State[19]:0.89, State[20]:0.58, State[21]:0.86, State[22]:0.87, State[23]:0.63, State[24]:0.86, State[25]:0.64, State[26]:0.91, State[27]:0.17, State[28]:0.59, State[29]:0.76, State[30]:0.96, 
+
+SpeakerName: 145
+MeanState:0.62,         State[1]:0.88, State[2]:0.92, State[3]:0.79, State[4]:0.87, State[5]:0.82, State[6]:0.79, State[7]:0.23, State[8]:0.70, State[9]:0.80, State[10]:0.77, State[11]:0.34, State[12]:0.42, State[13]:0.48, State[14]:0.21, State[15]:0.17, State[16]:0.25, State[17]:0.88, State[18]:0.58, State[19]:0.67, State[20]:0.17, State[21]:0.85, State[22]:0.35, State[23]:0.94, State[24]:0.59, State[25]:0.17, State[26]:0.73, State[27]:0.50, State[28]:0.74, State[29]:0.96, State[30]:0.95, 
+
+SpeakerName: 146
+MeanState:0.68,         State[1]:0.87, State[2]:0.90, State[3]:0.86, State[4]:0.96, State[5]:0.81, State[6]:0.91, State[7]:0.78, State[8]:0.68, State[9]:0.56, State[10]:0.69, State[11]:0.59, State[12]:0.55, State[13]:0.65, State[14]:0.75, State[15]:0.40, State[16]:0.21, State[17]:1.00, State[18]:0.77, State[19]:0.88, State[20]:0.25, State[21]:0.75, State[22]:0.46, State[23]:0.23, State[24]:0.85, State[25]:0.57, State[26]:0.87, State[27]:0.28, State[28]:0.69, State[29]:0.83, State[30]:0.94, 
+
+SpeakerName: 147
+MeanState:0.70,         State[1]:0.92, State[2]:0.84, State[3]:0.74, State[4]:0.91, State[5]:0.90, State[6]:0.89, State[7]:0.30, State[8]:0.72, State[9]:0.84, State[10]:0.49, State[11]:0.50, State[12]:0.53, State[13]:0.64, State[14]:0.17, State[15]:0.67, State[16]:0.53, State[17]:0.80, State[18]:0.66, State[19]:0.89, State[20]:0.25, State[21]:0.79, State[22]:0.50, State[23]:0.71, State[24]:0.87, State[25]:0.77, State[26]:0.93, State[27]:0.76, State[28]:0.50, State[29]:0.92, State[30]:0.99, 
+
+SpeakerName: 148
+MeanState:0.74,         State[1]:0.94, State[2]:0.93, State[3]:0.85, State[4]:0.86, State[5]:0.92, State[6]:0.91, State[7]:0.50, State[8]:0.67, State[9]:0.79, State[10]:0.76, State[11]:0.62, State[12]:0.61, State[13]:0.51, State[14]:0.63, State[15]:0.53, State[16]:0.62, State[17]:0.79, State[18]:0.47, State[19]:0.89, State[20]:1.00, State[21]:0.75, State[22]:0.80, State[23]:0.70, State[24]:0.90, State[25]:0.71, State[26]:0.84, State[27]:0.35, State[28]:0.56, State[29]:0.93, State[30]:0.95, 
+
+SpeakerName: 149
+MeanState:0.62,         State[1]:0.85, State[2]:0.91, State[3]:0.77, State[4]:0.81, State[5]:0.72, State[6]:0.66, State[7]:0.20, State[8]:0.58, State[9]:0.89, State[10]:0.82, State[11]:0.35, State[12]:0.46, State[13]:0.74, State[14]:0.53, State[15]:0.39, State[16]:0.27, State[17]:0.58, State[18]:0.67, State[19]:0.81, State[20]:0.30, State[21]:0.52, State[22]:0.53, State[23]:0.25, State[24]:0.84, State[25]:0.84, State[26]:0.70, State[27]:0.50, State[28]:0.41, State[29]:0.85, State[30]:0.94, 
+
+SpeakerName: 150
+MeanState:0.72,         State[1]:0.94, State[2]:0.91, State[3]:0.82, State[4]:0.90, State[5]:0.84, State[6]:0.88, State[7]:0.37, State[8]:0.85, State[9]:0.76, State[10]:0.65, State[11]:0.42, State[12]:0.54, State[13]:0.34, State[14]:1.00, State[15]:0.64, State[16]:0.33, State[17]:0.75, State[18]:1.00, State[19]:0.78, State[20]:0.25, State[21]:0.97, State[22]:0.40, State[23]:0.29, State[24]:0.80, State[25]:0.93, State[26]:0.89, State[27]:0.93, State[28]:0.42, State[29]:0.96, State[30]:0.96, 
+
+SpeakerName: 151
+MeanState:0.62,         State[1]:0.74, State[2]:0.79, State[3]:0.58, State[4]:0.63, State[5]:0.79, State[6]:0.80, State[7]:0.39, State[8]:0.53, State[9]:0.63, State[10]:0.60, State[11]:0.55, State[12]:0.35, State[13]:0.54, State[14]:0.55, State[15]:0.75, State[16]:0.41, State[17]:0.70, State[18]:0.61, State[19]:0.98, State[20]:0.00, State[21]:0.85, State[22]:0.58, State[23]:0.17, State[24]:0.84, State[25]:0.42, State[26]:0.79, State[27]:0.47, State[28]:0.90, State[29]:0.79, State[30]:0.90, 
+
+SpeakerName: 152
+MeanState:0.75,         State[1]:0.90, State[2]:0.90, State[3]:0.74, State[4]:0.79, State[5]:0.74, State[6]:0.84, State[7]:0.42, State[8]:0.68, State[9]:0.80, State[10]:0.78, State[11]:0.46, State[12]:0.45, State[13]:0.61, State[14]:0.48, State[15]:0.87, State[16]:0.50, State[17]:0.92, State[18]:0.83, State[19]:0.83, State[20]:0.75, State[21]:0.92, State[22]:0.88, State[23]:0.66, State[24]:0.99, State[25]:0.91, State[26]:0.92, State[27]:0.37, State[28]:0.72, State[29]:0.91, State[30]:1.00, 
+
+SpeakerName: 153
+MeanState:0.69,         State[1]:0.82, State[2]:0.84, State[3]:0.72, State[4]:0.76, State[5]:0.69, State[6]:0.88, State[7]:0.59, State[8]:0.57, State[9]:0.71, State[10]:0.93, State[11]:0.45, State[12]:0.65, State[13]:0.76, State[14]:0.42, State[15]:0.52, State[16]:0.12, State[17]:0.86, State[18]:0.94, State[19]:0.64, State[20]:0.33, State[21]:0.67, State[22]:0.96, State[23]:0.45, State[24]:0.98, State[25]:0.65, State[26]:0.95, State[27]:0.43, State[28]:0.67, State[29]:0.79, State[30]:0.97, 
+
+SpeakerName: 154
+MeanState:0.71,         State[1]:0.90, State[2]:0.91, State[3]:0.84, State[4]:0.89, State[5]:0.68, State[6]:0.81, State[7]:0.62, State[8]:0.61, State[9]:0.89, State[10]:0.74, State[11]:0.78, State[12]:0.60, State[13]:0.62, State[14]:0.42, State[15]:0.48, State[16]:0.33, State[17]:0.76, State[18]:0.80, State[19]:0.86, State[20]:0.25, State[21]:0.72, State[22]:0.60, State[23]:0.50, State[24]:0.91, State[25]:0.59, State[26]:0.93, State[27]:0.79, State[28]:0.62, State[29]:0.83, State[30]:0.99, 
+
+SpeakerName: 155
+MeanState:0.67,         State[1]:0.90, State[2]:0.91, State[3]:0.88, State[4]:0.82, State[5]:0.82, State[6]:0.86, State[7]:0.39, State[8]:0.87, State[9]:0.74, State[10]:0.82, State[11]:0.47, State[12]:0.47, State[13]:0.47, State[14]:0.67, State[15]:0.50, State[16]:0.54, State[17]:0.71, State[18]:0.59, State[19]:0.62, State[20]:0.12, State[21]:0.50, State[22]:0.56, State[23]:0.83, State[24]:0.80, State[25]:0.61, State[26]:0.81, State[27]:0.50, State[28]:0.59, State[29]:0.82, State[30]:0.93, 
+
+SpeakerName: 156
+MeanState:0.64,         State[1]:0.88, State[2]:0.89, State[3]:0.87, State[4]:0.89, State[5]:0.84, State[6]:0.91, State[7]:0.37, State[8]:0.37, State[9]:0.68, State[10]:0.57, State[11]:0.47, State[12]:0.67, State[13]:0.58, State[14]:1.00, State[15]:0.10, State[16]:0.35, State[17]:0.66, State[18]:0.45, State[19]:0.85, State[20]:0.00, State[21]:0.50, State[22]:0.50, State[23]:1.00, State[24]:0.83, State[25]:0.44, State[26]:0.75, State[27]:0.50, State[28]:0.52, State[29]:0.85, State[30]:0.96, 
+
+SpeakerName: 157
+MeanState:0.67,         State[1]:0.85, State[2]:0.88, State[3]:0.61, State[4]:0.95, State[5]:0.87, State[6]:0.83, State[7]:0.23, State[8]:0.61, State[9]:0.75, State[10]:0.72, State[11]:0.37, State[12]:0.21, State[13]:0.46, State[14]:0.33, State[15]:0.60, State[16]:0.45, State[17]:0.70, State[18]:0.78, State[19]:0.73, State[20]:0.33, State[21]:0.72, State[22]:0.42, State[23]:0.45, State[24]:0.93, State[25]:0.90, State[26]:0.92, State[27]:0.90, State[28]:0.75, State[29]:0.75, State[30]:0.96, 
+
+SpeakerName: 158
+MeanState:0.63,         State[1]:0.82, State[2]:0.88, State[3]:0.54, State[4]:0.85, State[5]:0.66, State[6]:0.54, State[7]:0.52, State[8]:0.73, State[9]:0.78, State[10]:0.39, State[11]:0.49, State[12]:0.51, State[13]:0.50, State[14]:0.31, State[15]:0.35, State[16]:0.55, State[17]:0.82, State[18]:0.70, State[19]:0.85, State[20]:0.45, State[21]:0.37, State[22]:0.88, State[23]:0.21, State[24]:0.90, State[25]:0.53, State[26]:0.95, State[27]:0.50, State[28]:0.57, State[29]:0.92, State[30]:0.93, 
+
+SpeakerName: 159
+MeanState:0.63,         State[1]:0.84, State[2]:0.87, State[3]:0.76, State[4]:0.88, State[5]:0.81, State[6]:0.83, State[7]:0.27, State[8]:0.58, State[9]:0.63, State[10]:0.70, State[11]:0.42, State[12]:0.64, State[13]:0.41, State[14]:0.62, State[15]:0.83, State[16]:0.63, State[17]:0.63, State[18]:0.63, State[19]:0.72, State[20]:0.25, State[21]:0.33, State[22]:0.69, State[23]:0.94, State[24]:0.70, State[25]:0.34, State[26]:0.74, State[27]:0.00, State[28]:0.47, State[29]:0.83, State[30]:0.91, 
+
+SpeakerName: 160
+MeanState:0.66,         State[1]:0.86, State[2]:0.93, State[3]:0.77, State[4]:0.82, State[5]:0.76, State[6]:0.84, State[7]:0.29, State[8]:0.43, State[9]:0.74, State[10]:0.78, State[11]:0.36, State[12]:0.39, State[13]:0.40, State[14]:0.58, State[15]:1.00, State[16]:0.42, State[17]:0.25, State[18]:0.87, State[19]:0.92, State[20]:0.30, State[21]:0.75, State[22]:0.75, State[23]:0.47, State[24]:0.75, State[25]:0.47, State[26]:0.88, State[27]:0.37, State[28]:0.81, State[29]:0.82, State[30]:0.92, 
+
+SpeakerName: 161
+MeanState:0.65,         State[1]:0.81, State[2]:0.82, State[3]:0.56, State[4]:0.74, State[5]:0.57, State[6]:0.64, State[7]:0.20, State[8]:0.60, State[9]:0.72, State[10]:0.69, State[11]:0.37, State[12]:0.73, State[13]:0.70, State[14]:0.37, State[15]:0.58, State[16]:0.17, State[17]:0.82, State[18]:0.87, State[19]:0.82, State[20]:1.00, State[21]:0.75, State[22]:0.62, State[23]:0.40, State[24]:0.87, State[25]:0.92, State[26]:0.89, State[27]:0.76, State[28]:0.18, State[29]:0.47, State[30]:1.00, 
+
+SpeakerName: 162
+MeanState:0.74,         State[1]:0.91, State[2]:0.86, State[3]:0.77, State[4]:0.78, State[5]:0.87, State[6]:0.82, State[7]:0.43, State[8]:0.56, State[9]:0.76, State[10]:0.71, State[11]:0.56, State[12]:0.44, State[13]:0.73, State[14]:0.40, State[15]:0.87, State[16]:0.34, State[17]:0.49, State[18]:0.79, State[19]:0.96, State[20]:0.57, State[21]:0.93, State[22]:0.85, State[23]:0.84, State[24]:0.96, State[25]:0.82, State[26]:0.94, State[27]:0.46, State[28]:0.83, State[29]:0.93, State[30]:0.99, 
+
+SpeakerName: 163
+MeanState:0.69,         State[1]:0.91, State[2]:0.89, State[3]:0.80, State[4]:0.62, State[5]:0.84, State[6]:0.82, State[7]:0.00, State[8]:0.67, State[9]:0.83, State[10]:0.75, State[11]:0.33, State[12]:0.62, State[13]:0.46, State[14]:0.50, State[15]:0.58, State[16]:0.56, State[17]:0.71, State[18]:0.59, State[19]:0.75, State[20]:0.50, State[21]:0.73, State[22]:1.00, State[23]:0.72, State[24]:0.85, State[25]:0.68, State[26]:0.90, State[27]:0.32, State[28]:0.77, State[29]:0.94, State[30]:0.95, 
+
+SpeakerName: 164
+MeanState:0.75,         State[1]:0.93, State[2]:0.89, State[3]:0.80, State[4]:0.86, State[5]:0.84, State[6]:0.87, State[7]:0.56, State[8]:0.45, State[9]:0.87, State[10]:0.74, State[11]:0.65, State[12]:0.64, State[13]:0.61, State[14]:0.40, State[15]:0.53, State[16]:0.17, State[17]:0.81, State[18]:0.76, State[19]:0.97, State[20]:1.00, State[21]:0.81, State[22]:1.00, State[23]:0.70, State[24]:0.94, State[25]:0.50, State[26]:0.86, State[27]:0.77, State[28]:0.67, State[29]:0.94, State[30]:0.92, 
+
+SpeakerName: 165
+MeanState:0.71,         State[1]:0.90, State[2]:0.90, State[3]:0.76, State[4]:0.70, State[5]:0.89, State[6]:0.87, State[7]:0.79, State[8]:0.76, State[9]:0.81, State[10]:0.58, State[11]:0.48, State[12]:0.69, State[13]:0.57, State[14]:0.83, State[15]:0.56, State[16]:0.67, State[17]:0.62, State[18]:0.66, State[19]:0.86, State[20]:0.33, State[21]:0.58, State[22]:0.47, State[23]:0.54, State[24]:0.78, State[25]:0.77, State[26]:0.98, State[27]:0.82, State[28]:0.64, State[29]:0.44, State[30]:0.93, 
+
+SpeakerName: 166
+MeanState:0.70,         State[1]:0.84, State[2]:0.91, State[3]:0.72, State[4]:0.86, State[5]:0.73, State[6]:0.86, State[7]:0.37, State[8]:0.83, State[9]:0.84, State[10]:0.78, State[11]:0.56, State[12]:0.50, State[13]:0.40, State[14]:0.67, State[15]:0.17, State[16]:0.37, State[17]:0.40, State[18]:0.84, State[19]:0.72, State[20]:0.31, State[21]:0.84, State[22]:0.87, State[23]:0.45, State[24]:0.95, State[25]:0.79, State[26]:0.92, State[27]:0.95, State[28]:0.62, State[29]:0.98, State[30]:0.99, 
+
+SpeakerName: 167
+MeanState:0.58,         State[1]:0.90, State[2]:0.90, State[3]:0.79, State[4]:0.71, State[5]:0.71, State[6]:0.66, State[7]:0.12, State[8]:0.47, State[9]:0.86, State[10]:0.54, State[11]:0.43, State[12]:0.50, State[13]:0.68, State[14]:0.17, State[15]:0.52, State[16]:0.58, State[17]:0.37, State[18]:0.42, State[19]:0.90, State[20]:0.50, State[21]:0.50, State[22]:0.00, State[23]:0.58, State[24]:0.88, State[25]:0.65, State[26]:0.43, State[27]:0.50, State[28]:0.37, State[29]:0.83, State[30]:0.98, 
+
+SpeakerName: 168
+MeanState:0.64,         State[1]:0.79, State[2]:0.84, State[3]:0.71, State[4]:0.72, State[5]:0.88, State[6]:0.67, State[7]:0.14, State[8]:0.86, State[9]:0.81, State[10]:0.67, State[11]:0.50, State[12]:0.33, State[13]:0.41, State[14]:0.50, State[15]:0.83, State[16]:0.80, State[17]:0.77, State[18]:0.54, State[19]:0.91, State[20]:0.00, State[21]:0.36, State[22]:0.33, State[23]:0.42, State[24]:0.85, State[25]:0.90, State[26]:0.85, State[27]:0.83, State[28]:0.14, State[29]:0.86, State[30]:0.94, 
+
+SpeakerName: 169
+MeanState:0.62,         State[1]:0.84, State[2]:0.87, State[3]:0.54, State[4]:0.68, State[5]:0.77, State[6]:0.69, State[7]:0.20, State[8]:0.54, State[9]:0.74, State[10]:0.59, State[11]:0.40, State[12]:0.80, State[13]:0.54, State[14]:0.42, State[15]:0.39, State[16]:0.10, State[17]:0.86, State[18]:0.53, State[19]:0.85, State[20]:0.00, State[21]:0.75, State[22]:0.87, State[23]:0.56, State[24]:0.91, State[25]:0.87, State[26]:0.86, State[27]:0.17, State[28]:0.46, State[29]:0.83, State[30]:0.99, 
+
+SpeakerName: 170
+MeanState:0.69,         State[1]:0.84, State[2]:0.91, State[3]:0.76, State[4]:0.84, State[5]:0.80, State[6]:0.74, State[7]:0.07, State[8]:0.52, State[9]:0.75, State[10]:0.52, State[11]:0.51, State[12]:0.45, State[13]:0.49, State[14]:0.82, State[15]:0.61, State[16]:1.00, State[17]:0.74, State[18]:0.76, State[19]:0.90, State[20]:0.67, State[21]:0.71, State[22]:0.14, State[23]:0.86, State[24]:0.74, State[25]:0.77, State[26]:0.92, State[27]:0.40, State[28]:0.67, State[29]:0.80, State[30]:0.98, 
+
+SpeakerName: 171
+MeanState:0.71,         State[1]:0.87, State[2]:0.82, State[3]:0.77, State[4]:0.87, State[5]:0.95, State[6]:0.69, State[7]:0.32, State[8]:0.71, State[9]:0.69, State[10]:0.76, State[11]:0.45, State[12]:0.83, State[13]:0.71, State[14]:0.62, State[15]:0.50, State[16]:0.37, State[17]:0.87, State[18]:0.83, State[19]:0.87, State[20]:0.58, State[21]:0.75, State[22]:0.70, State[23]:0.33, State[24]:0.84, State[25]:0.83, State[26]:0.84, State[27]:0.58, State[28]:0.45, State[29]:0.85, State[30]:0.94, 
+
+SpeakerName: 172
+MeanState:0.61,         State[1]:0.83, State[2]:0.78, State[3]:0.73, State[4]:0.85, State[5]:0.71, State[6]:0.75, State[7]:0.10, State[8]:0.39, State[9]:0.70, State[10]:0.68, State[11]:0.42, State[12]:0.62, State[13]:0.45, State[14]:0.14, State[15]:0.50, State[16]:0.92, State[17]:0.81, State[18]:0.65, State[19]:0.56, State[20]:0.50, State[21]:0.50, State[22]:0.30, State[23]:0.45, State[24]:0.87, State[25]:0.62, State[26]:0.74, State[27]:0.67, State[28]:0.32, State[29]:0.75, State[30]:0.97, 
+
+SpeakerName: 173
+MeanState:0.60,         State[1]:0.88, State[2]:0.90, State[3]:0.80, State[4]:0.72, State[5]:0.87, State[6]:0.75, State[7]:0.12, State[8]:0.42, State[9]:0.68, State[10]:0.58, State[11]:0.17, State[12]:0.19, State[13]:0.51, State[14]:0.39, State[15]:0.50, State[16]:0.60, State[17]:0.67, State[18]:0.94, State[19]:0.79, State[20]:0.12, State[21]:0.50, State[22]:0.30, State[23]:0.87, State[24]:0.77, State[25]:0.54, State[26]:0.65, State[27]:0.46, State[28]:0.43, State[29]:0.76, State[30]:0.98, 
+
+SpeakerName: 174
+MeanState:0.68,         State[1]:0.88, State[2]:0.90, State[3]:0.67, State[4]:0.74, State[5]:0.78, State[6]:0.82, State[7]:0.15, State[8]:0.50, State[9]:0.70, State[10]:0.72, State[11]:0.38, State[12]:0.56, State[13]:0.39, State[14]:0.50, State[15]:0.33, State[16]:0.75, State[17]:0.49, State[18]:0.39, State[19]:0.95, State[20]:0.29, State[21]:0.90, State[22]:0.90, State[23]:0.92, State[24]:0.95, State[25]:0.90, State[26]:0.87, State[27]:0.80, State[28]:0.33, State[29]:1.00, State[30]:0.93, 
+
+SpeakerName: 175
+MeanState:0.66,         State[1]:0.82, State[2]:0.88, State[3]:0.62, State[4]:0.78, State[5]:0.58, State[6]:0.86, State[7]:0.23, State[8]:0.58, State[9]:0.78, State[10]:0.63, State[11]:0.41, State[12]:0.54, State[13]:0.51, State[14]:0.50, State[15]:0.47, State[16]:0.33, State[17]:0.60, State[18]:0.87, State[19]:0.56, State[20]:0.67, State[21]:0.50, State[22]:0.58, State[23]:0.50, State[24]:0.92, State[25]:0.70, State[26]:0.92, State[27]:0.75, State[28]:0.72, State[29]:1.00, State[30]:0.98, 
+
+SpeakerName: 176
+MeanState:0.62,         State[1]:0.78, State[2]:0.75, State[3]:0.71, State[4]:0.69, State[5]:0.69, State[6]:0.63, State[7]:0.33, State[8]:0.48, State[9]:0.75, State[10]:0.35, State[11]:0.56, State[12]:0.85, State[13]:0.47, State[14]:0.54, State[15]:0.86, State[16]:0.29, State[17]:0.44, State[18]:0.65, State[19]:0.89, State[20]:0.25, State[21]:0.67, State[22]:0.76, State[23]:0.42, State[24]:0.79, State[25]:0.52, State[26]:0.84, State[27]:0.43, State[28]:0.58, State[29]:0.85, State[30]:0.91, 
+
+SpeakerName: 177
+MeanState:0.62,         State[1]:0.85, State[2]:0.73, State[3]:0.66, State[4]:0.80, State[5]:0.63, State[6]:0.75, State[7]:0.34, State[8]:0.40, State[9]:0.54, State[10]:0.37, State[11]:0.41, State[12]:0.58, State[13]:0.69, State[14]:0.33, State[15]:0.52, State[16]:0.17, State[17]:0.94, State[18]:0.77, State[19]:0.70, State[20]:0.42, State[21]:0.79, State[22]:0.49, State[23]:0.64, State[24]:0.87, State[25]:0.58, State[26]:0.90, State[27]:0.39, State[28]:0.54, State[29]:0.75, State[30]:0.94, 
+
+SpeakerName: 178
+MeanState:0.68,         State[1]:0.91, State[2]:0.89, State[3]:0.79, State[4]:0.90, State[5]:0.81, State[6]:0.87, State[7]:0.24, State[8]:0.75, State[9]:0.72, State[10]:0.71, State[11]:0.47, State[12]:0.24, State[13]:0.61, State[14]:0.42, State[15]:0.22, State[16]:0.33, State[17]:0.60, State[18]:0.73, State[19]:0.49, State[20]:0.31, State[21]:0.70, State[22]:0.89, State[23]:0.65, State[24]:0.96, State[25]:0.92, State[26]:0.92, State[27]:0.87, State[28]:0.83, State[29]:0.82, State[30]:0.88, 
+
+SpeakerName: 179
+MeanState:0.72,         State[1]:0.90, State[2]:0.87, State[3]:0.75, State[4]:0.85, State[5]:0.77, State[6]:0.77, State[7]:0.24, State[8]:0.52, State[9]:0.82, State[10]:0.90, State[11]:0.60, State[12]:0.60, State[13]:0.84, State[14]:0.44, State[15]:0.42, State[16]:0.20, State[17]:1.00, State[18]:0.95, State[19]:0.93, State[20]:0.20, State[21]:0.93, State[22]:0.70, State[23]:0.55, State[24]:0.92, State[25]:0.74, State[26]:0.94, State[27]:0.50, State[28]:0.86, State[29]:0.87, State[30]:0.96, 
+
+SpeakerName: 180
+MeanState:0.68,         State[1]:0.92, State[2]:0.87, State[3]:0.79, State[4]:0.88, State[5]:0.85, State[6]:0.79, State[7]:0.41, State[8]:0.30, State[9]:0.77, State[10]:0.78, State[11]:0.40, State[12]:0.67, State[13]:0.62, State[14]:0.75, State[15]:0.86, State[16]:0.32, State[17]:0.90, State[18]:0.71, State[19]:0.72, State[20]:0.00, State[21]:0.42, State[22]:0.48, State[23]:0.75, State[24]:0.83, State[25]:0.72, State[26]:0.84, State[27]:0.50, State[28]:0.42, State[29]:1.00, State[30]:0.97, 
+
+SpeakerName: 181
+MeanState:0.70,         State[1]:0.95, State[2]:0.94, State[3]:0.87, State[4]:0.89, State[5]:0.89, State[6]:0.91, State[7]:0.48, State[8]:0.85, State[9]:0.75, State[10]:0.85, State[11]:0.59, State[12]:0.53, State[13]:0.65, State[14]:0.45, State[15]:0.27, State[16]:0.70, State[17]:0.83, State[18]:0.75, State[19]:0.66, State[20]:0.10, State[21]:0.66, State[22]:0.61, State[23]:0.50, State[24]:0.94, State[25]:0.75, State[26]:0.91, State[27]:0.36, State[28]:0.56, State[29]:0.97, State[30]:0.89, 
+
+SpeakerName: 182
+MeanState:0.74,         State[1]:0.86, State[2]:0.89, State[3]:0.74, State[4]:0.88, State[5]:0.96, State[6]:0.68, State[7]:0.55, State[8]:0.65, State[9]:0.83, State[10]:0.84, State[11]:0.68, State[12]:0.69, State[13]:0.48, State[14]:0.37, State[15]:0.67, State[16]:0.72, State[17]:0.81, State[18]:0.58, State[19]:0.90, State[20]:0.42, State[21]:0.84, State[22]:0.83, State[23]:0.40, State[24]:0.84, State[25]:0.55, State[26]:0.90, State[27]:0.94, State[28]:0.80, State[29]:0.83, State[30]:0.97, 
+
+SpeakerName: 183
+MeanState:0.67,         State[1]:0.87, State[2]:0.86, State[3]:0.64, State[4]:0.68, State[5]:0.72, State[6]:0.71, State[7]:0.48, State[8]:0.67, State[9]:0.75, State[10]:0.87, State[11]:0.41, State[12]:0.76, State[13]:0.67, State[14]:0.73, State[15]:0.33, State[16]:0.59, State[17]:0.27, State[18]:0.92, State[19]:0.45, State[20]:0.47, State[21]:0.85, State[22]:0.14, State[23]:0.33, State[24]:0.76, State[25]:0.79, State[26]:0.97, State[27]:0.70, State[28]:0.84, State[29]:0.86, State[30]:0.94, 
+
+SpeakerName: 184
+MeanState:0.62,         State[1]:0.85, State[2]:0.91, State[3]:0.80, State[4]:0.87, State[5]:0.65, State[6]:0.74, State[7]:0.42, State[8]:0.76, State[9]:0.59, State[10]:0.65, State[11]:0.29, State[12]:0.53, State[13]:0.61, State[14]:0.43, State[15]:0.20, State[16]:0.29, State[17]:0.61, State[18]:0.66, State[19]:0.86, State[20]:0.27, State[21]:0.46, State[22]:0.67, State[23]:0.85, State[24]:0.73, State[25]:0.77, State[26]:0.84, State[27]:0.29, State[28]:0.20, State[29]:0.88, State[30]:0.92, 
+
+SpeakerName: 185
+MeanState:0.60,         State[1]:0.86, State[2]:0.87, State[3]:0.81, State[4]:0.50, State[5]:0.43, State[6]:0.85, State[7]:0.21, State[8]:0.75, State[9]:0.73, State[10]:0.42, State[11]:0.70, State[12]:0.43, State[13]:0.60, State[14]:0.62, State[15]:0.37, State[16]:0.44, State[17]:0.88, State[18]:0.60, State[19]:0.54, State[20]:0.50, State[21]:0.33, State[22]:0.25, State[23]:0.67, State[24]:0.79, State[25]:0.48, State[26]:0.68, State[27]:0.54, State[28]:0.51, State[29]:0.75, State[30]:0.90, 
+
+SpeakerName: 186
+MeanState:0.67,         State[1]:0.90, State[2]:0.94, State[3]:0.79, State[4]:0.87, State[5]:0.94, State[6]:0.80, State[7]:0.64, State[8]:0.69, State[9]:0.68, State[10]:0.51, State[11]:0.30, State[12]:0.58, State[13]:0.58, State[14]:0.37, State[15]:0.78, State[16]:0.32, State[17]:0.60, State[18]:0.77, State[19]:0.75, State[20]:0.00, State[21]:0.86, State[22]:0.41, State[23]:0.74, State[24]:0.71, State[25]:0.67, State[26]:0.87, State[27]:0.36, State[28]:0.65, State[29]:0.93, State[30]:0.94, 
+
+SpeakerName: 187
+MeanState:0.73,         State[1]:0.91, State[2]:0.89, State[3]:0.70, State[4]:0.91, State[5]:0.83, State[6]:0.77, State[7]:0.40, State[8]:0.35, State[9]:0.81, State[10]:0.75, State[11]:0.66, State[12]:0.46, State[13]:0.46, State[14]:0.45, State[15]:0.47, State[16]:0.46, State[17]:0.77, State[18]:0.70, State[19]:0.79, State[20]:0.87, State[21]:1.00, State[22]:1.00, State[23]:0.68, State[24]:0.92, State[25]:0.74, State[26]:0.88, State[27]:0.96, State[28]:0.65, State[29]:0.76, State[30]:0.99, 
+
+SpeakerName: 188
+MeanState:0.70,         State[1]:0.90, State[2]:0.86, State[3]:0.79, State[4]:0.71, State[5]:0.83, State[6]:0.94, State[7]:0.17, State[8]:0.62, State[9]:0.82, State[10]:0.78, State[11]:0.55, State[12]:0.87, State[13]:0.65, State[14]:0.37, State[15]:0.63, State[16]:0.38, State[17]:0.89, State[18]:0.74, State[19]:0.83, State[20]:0.17, State[21]:0.83, State[22]:0.67, State[23]:0.50, State[24]:0.89, State[25]:0.83, State[26]:0.89, State[27]:0.45, State[28]:0.63, State[29]:0.82, State[30]:0.96, 
+
+SpeakerName: 189
+MeanState:0.71,         State[1]:0.90, State[2]:0.86, State[3]:0.73, State[4]:0.74, State[5]:0.87, State[6]:0.86, State[7]:0.47, State[8]:0.74, State[9]:0.61, State[10]:0.76, State[11]:0.63, State[12]:0.66, State[13]:0.69, State[14]:0.39, State[15]:0.55, State[16]:0.57, State[17]:0.54, State[18]:0.90, State[19]:0.91, State[20]:0.31, State[21]:0.76, State[22]:0.87, State[23]:0.50, State[24]:0.94, State[25]:0.86, State[26]:0.91, State[27]:0.33, State[28]:0.73, State[29]:0.86, State[30]:0.94, 
+
+SpeakerName: 190
+MeanState:0.73,         State[1]:0.86, State[2]:0.90, State[3]:0.73, State[4]:0.80, State[5]:0.84, State[6]:0.85, State[7]:0.69, State[8]:1.00, State[9]:0.80, State[10]:0.88, State[11]:0.45, State[12]:0.58, State[13]:0.69, State[14]:0.75, State[15]:0.43, State[16]:0.46, State[17]:0.82, State[18]:0.76, State[19]:0.82, State[20]:0.58, State[21]:0.61, State[22]:0.41, State[23]:0.67, State[24]:0.86, State[25]:0.72, State[26]:0.91, State[27]:0.44, State[28]:0.80, State[29]:0.92, State[30]:0.94, 
+
+SpeakerName: 191
+MeanState:0.70,         State[1]:0.84, State[2]:0.89, State[3]:0.81, State[4]:0.73, State[5]:0.69, State[6]:0.90, State[7]:0.61, State[8]:0.46, State[9]:0.75, State[10]:0.72, State[11]:0.56, State[12]:0.63, State[13]:0.50, State[14]:0.69, State[15]:0.67, State[16]:0.20, State[17]:0.79, State[18]:0.65, State[19]:0.76, State[20]:0.50, State[21]:0.42, State[22]:1.00, State[23]:0.56, State[24]:0.88, State[25]:0.82, State[26]:0.93, State[27]:0.50, State[28]:0.63, State[29]:0.89, State[30]:0.94, 
+
+SpeakerName: 192
+MeanState:0.71,         State[1]:0.88, State[2]:0.89, State[3]:0.68, State[4]:0.87, State[5]:0.79, State[6]:0.78, State[7]:0.21, State[8]:0.65, State[9]:0.67, State[10]:0.73, State[11]:0.53, State[12]:0.58, State[13]:0.58, State[14]:0.56, State[15]:0.68, State[16]:0.50, State[17]:0.77, State[18]:0.58, State[19]:0.81, State[20]:0.87, State[21]:0.63, State[22]:0.89, State[23]:0.50, State[24]:0.95, State[25]:0.73, State[26]:0.89, State[27]:0.56, State[28]:0.72, State[29]:0.87, State[30]:0.96, 
+
+SpeakerName: 193
+MeanState:0.70,         State[1]:0.80, State[2]:0.93, State[3]:0.75, State[4]:0.87, State[5]:0.80, State[6]:0.76, State[7]:0.52, State[8]:0.35, State[9]:0.74, State[10]:0.70, State[11]:0.44, State[12]:0.92, State[13]:0.65, State[14]:0.80, State[15]:0.67, State[16]:0.56, State[17]:1.00, State[18]:0.59, State[19]:0.61, State[20]:0.00, State[21]:0.59, State[22]:0.94, State[23]:0.43, State[24]:0.85, State[25]:0.83, State[26]:0.79, State[27]:0.79, State[28]:0.62, State[29]:0.94, State[30]:0.89, 
+
+SpeakerName: 194
+MeanState:0.68,         State[1]:0.82, State[2]:0.90, State[3]:0.76, State[4]:0.76, State[5]:0.81, State[6]:0.84, State[7]:0.21, State[8]:0.29, State[9]:0.83, State[10]:0.65, State[11]:0.30, State[12]:0.38, State[13]:0.40, State[14]:0.52, State[15]:0.62, State[16]:0.62, State[17]:0.77, State[18]:0.79, State[19]:0.92, State[20]:0.31, State[21]:0.92, State[22]:0.82, State[23]:0.50, State[24]:0.95, State[25]:0.80, State[26]:0.90, State[27]:0.44, State[28]:0.69, State[29]:0.93, State[30]:0.99, 
+
+SpeakerName: 195
+MeanState:0.72,         State[1]:0.92, State[2]:0.91, State[3]:0.79, State[4]:0.94, State[5]:0.92, State[6]:0.83, State[7]:0.77, State[8]:0.78, State[9]:0.79, State[10]:0.76, State[11]:0.34, State[12]:0.66, State[13]:0.73, State[14]:0.36, State[15]:0.64, State[16]:0.51, State[17]:0.78, State[18]:0.71, State[19]:0.83, State[20]:0.37, State[21]:0.57, State[22]:0.85, State[23]:0.78, State[24]:0.90, State[25]:0.51, State[26]:0.92, State[27]:0.49, State[28]:0.73, State[29]:0.47, State[30]:0.95, 
+
+SpeakerName: 196
+MeanState:0.70,         State[1]:0.82, State[2]:0.88, State[3]:0.75, State[4]:0.62, State[5]:0.69, State[6]:0.76, State[7]:0.37, State[8]:0.92, State[9]:0.70, State[10]:0.75, State[11]:0.28, State[12]:0.50, State[13]:0.51, State[14]:0.42, State[15]:0.75, State[16]:0.37, State[17]:0.59, State[18]:0.74, State[19]:0.92, State[20]:0.75, State[21]:0.81, State[22]:0.42, State[23]:0.62, State[24]:0.92, State[25]:1.00, State[26]:0.85, State[27]:0.86, State[28]:0.62, State[29]:0.89, State[30]:0.99, 
+
+SpeakerName: 197
+MeanState:0.63,         State[1]:0.89, State[2]:0.88, State[3]:0.81, State[4]:0.87, State[5]:0.73, State[6]:0.81, State[7]:0.21, State[8]:0.67, State[9]:0.87, State[10]:0.84, State[11]:0.54, State[12]:0.41, State[13]:0.55, State[14]:0.42, State[15]:0.25, State[16]:0.25, State[17]:0.43, State[18]:0.58, State[19]:0.76, State[20]:0.30, State[21]:0.79, State[22]:0.58, State[23]:0.67, State[24]:0.89, State[25]:0.70, State[26]:0.92, State[27]:0.50, State[28]:0.56, State[29]:0.17, State[30]:0.99, 
+
+SpeakerName: 198
+MeanState:0.69,         State[1]:0.72, State[2]:0.88, State[3]:0.73, State[4]:0.79, State[5]:0.18, State[6]:0.68, State[7]:0.29, State[8]:0.52, State[9]:0.72, State[10]:0.63, State[11]:0.35, State[12]:0.46, State[13]:0.49, State[14]:0.56, State[15]:1.00, State[16]:0.83, State[17]:0.74, State[18]:0.66, State[19]:0.93, State[20]:0.50, State[21]:1.00, State[22]:0.56, State[23]:0.42, State[24]:0.94, State[25]:0.73, State[26]:0.88, State[27]:1.00, State[28]:0.90, State[29]:0.75, State[30]:0.95, 
+
+SpeakerName: 199
+MeanState:0.71,         State[1]:0.90, State[2]:0.87, State[3]:0.80, State[4]:0.66, State[5]:0.89, State[6]:0.86, State[7]:0.21, State[8]:0.71, State[9]:0.82, State[10]:0.71, State[11]:0.51, State[12]:0.83, State[13]:0.46, State[14]:0.30, State[15]:0.30, State[16]:0.57, State[17]:0.76, State[18]:0.69, State[19]:0.83, State[20]:0.47, State[21]:0.83, State[22]:0.42, State[23]:0.78, State[24]:0.90, State[25]:0.95, State[26]:0.82, State[27]:1.00, State[28]:0.79, State[29]:0.78, State[30]:0.91, 
+
+SpeakerName: 1100
+MeanState:0.74,         State[1]:0.92, State[2]:0.93, State[3]:0.76, State[4]:0.76, State[5]:0.97, State[6]:0.90, State[7]:0.36, State[8]:0.86, State[9]:0.89, State[10]:0.83, State[11]:0.57, State[12]:0.64, State[13]:0.41, State[14]:0.35, State[15]:0.40, State[16]:0.63, State[17]:0.47, State[18]:0.74, State[19]:0.89, State[20]:0.87, State[21]:0.79, State[22]:0.75, State[23]:0.69, State[24]:0.94, State[25]:0.88, State[26]:0.94, State[27]:0.77, State[28]:0.59, State[29]:0.84, State[30]:0.93, 
+
+SpeakerName: 1101
+MeanState:0.71,         State[1]:0.88, State[2]:0.91, State[3]:0.86, State[4]:0.74, State[5]:0.76, State[6]:0.82, State[7]:0.17, State[8]:0.84, State[9]:0.78, State[10]:0.67, State[11]:0.59, State[12]:0.52, State[13]:0.44, State[14]:0.62, State[15]:0.80, State[16]:0.58, State[17]:0.73, State[18]:0.61, State[19]:0.98, State[20]:0.50, State[21]:0.91, State[22]:0.75, State[23]:0.92, State[24]:0.52, State[25]:0.74, State[26]:0.95, State[27]:0.30, State[28]:0.58, State[29]:0.95, State[30]:0.98, 
+
+SpeakerName: 1102
+MeanState:0.70,         State[1]:0.94, State[2]:0.90, State[3]:0.81, State[4]:0.82, State[5]:0.89, State[6]:0.92, State[7]:0.87, State[8]:0.87, State[9]:0.97, State[10]:0.85, State[11]:0.57, State[12]:0.44, State[13]:0.37, State[14]:0.22, State[15]:0.31, State[16]:0.57, State[17]:0.44, State[18]:0.70, State[19]:0.81, State[20]:0.19, State[21]:0.71, State[22]:0.57, State[23]:0.72, State[24]:0.85, State[25]:0.27, State[26]:0.93, State[27]:1.00, State[28]:0.79, State[29]:0.86, State[30]:0.91, 
+
+SpeakerName: 1103
+MeanState:0.77,         State[1]:0.91, State[2]:0.89, State[3]:0.74, State[4]:0.86, State[5]:0.83, State[6]:0.82, State[7]:0.58, State[8]:0.59, State[9]:0.73, State[10]:0.78, State[11]:0.55, State[12]:0.80, State[13]:0.57, State[14]:0.71, State[15]:0.73, State[16]:0.35, State[17]:0.88, State[18]:0.86, State[19]:0.90, State[20]:0.75, State[21]:0.95, State[22]:0.94, State[23]:0.61, State[24]:0.94, State[25]:0.85, State[26]:0.91, State[27]:0.87, State[28]:0.78, State[29]:0.50, State[30]:0.98, 
+
+SpeakerName: 1104
+MeanState:0.68,         State[1]:0.90, State[2]:0.91, State[3]:0.81, State[4]:0.90, State[5]:0.87, State[6]:0.95, State[7]:0.44, State[8]:0.58, State[9]:0.80, State[10]:0.69, State[11]:0.36, State[12]:0.79, State[13]:0.59, State[14]:0.39, State[15]:0.00, State[16]:0.80, State[17]:0.82, State[18]:0.51, State[19]:0.86, State[20]:0.18, State[21]:0.79, State[22]:0.39, State[23]:0.37, State[24]:0.86, State[25]:0.62, State[26]:0.87, State[27]:0.81, State[28]:0.75, State[29]:0.97, State[30]:0.96, 
+
+SpeakerName: 1105
+MeanState:0.76,         State[1]:0.89, State[2]:0.85, State[3]:0.72, State[4]:0.88, State[5]:0.81, State[6]:0.88, State[7]:0.71, State[8]:0.92, State[9]:0.80, State[10]:0.79, State[11]:0.51, State[12]:0.83, State[13]:0.65, State[14]:0.89, State[15]:0.72, State[16]:0.35, State[17]:0.85, State[18]:0.60, State[19]:0.92, State[20]:0.62, State[21]:0.95, State[22]:0.75, State[23]:0.85, State[24]:0.91, State[25]:0.53, State[26]:0.93, State[27]:0.00, State[28]:0.80, State[29]:0.96, State[30]:0.94, 
+
+SpeakerName: 1106
+MeanState:0.67,         State[1]:0.86, State[2]:0.83, State[3]:0.71, State[4]:0.89, State[5]:0.73, State[6]:0.71, State[7]:0.28, State[8]:0.85, State[9]:0.72, State[10]:0.65, State[11]:0.40, State[12]:0.62, State[13]:0.58, State[14]:0.33, State[15]:0.33, State[16]:0.60, State[17]:0.80, State[18]:0.73, State[19]:0.91, State[20]:0.00, State[21]:0.72, State[22]:0.79, State[23]:0.37, State[24]:0.92, State[25]:0.75, State[26]:0.93, State[27]:0.89, State[28]:0.32, State[29]:0.86, State[30]:0.98, 
+
+SpeakerName: 1107
+MeanState:0.71,         State[1]:0.90, State[2]:0.90, State[3]:0.86, State[4]:0.82, State[5]:0.89, State[6]:0.86, State[7]:0.49, State[8]:0.61, State[9]:0.62, State[10]:0.75, State[11]:0.36, State[12]:0.52, State[13]:0.62, State[14]:0.86, State[15]:0.68, State[16]:0.33, State[17]:0.69, State[18]:0.78, State[19]:0.85, State[20]:0.58, State[21]:1.00, State[22]:0.76, State[23]:0.57, State[24]:0.92, State[25]:0.23, State[26]:0.89, State[27]:0.73, State[28]:0.66, State[29]:0.80, State[30]:0.87, 
+
+SpeakerName: 1108
+MeanState:0.74,         State[1]:0.86, State[2]:0.91, State[3]:0.84, State[4]:0.80, State[5]:0.95, State[6]:0.90, State[7]:0.54, State[8]:0.44, State[9]:0.61, State[10]:0.79, State[11]:0.70, State[12]:0.78, State[13]:0.65, State[14]:0.56, State[15]:0.96, State[16]:0.38, State[17]:0.88, State[18]:0.77, State[19]:0.92, State[20]:0.18, State[21]:0.91, State[22]:0.87, State[23]:0.36, State[24]:0.89, State[25]:0.61, State[26]:0.95, State[27]:0.50, State[28]:0.90, State[29]:0.93, State[30]:0.95, 
+
+SpeakerName: 1109
+MeanState:0.71,         State[1]:0.91, State[2]:0.84, State[3]:0.81, State[4]:0.79, State[5]:0.82, State[6]:0.88, State[7]:0.54, State[8]:0.55, State[9]:0.76, State[10]:0.81, State[11]:0.66, State[12]:0.69, State[13]:0.49, State[14]:0.31, State[15]:0.75, State[16]:0.75, State[17]:0.44, State[18]:0.68, State[19]:0.85, State[20]:0.63, State[21]:0.81, State[22]:0.33, State[23]:0.71, State[24]:0.93, State[25]:0.87, State[26]:0.96, State[27]:0.44, State[28]:0.62, State[29]:0.84, State[30]:0.98, 
+
+SpeakerName: 1110
+MeanState:0.68,         State[1]:0.88, State[2]:0.91, State[3]:0.78, State[4]:0.76, State[5]:0.75, State[6]:0.75, State[7]:0.25, State[8]:0.74, State[9]:0.85, State[10]:0.62, State[11]:0.28, State[12]:0.66, State[13]:0.57, State[14]:0.79, State[15]:0.67, State[16]:0.58, State[17]:0.73, State[18]:0.81, State[19]:0.86, State[20]:0.50, State[21]:0.82, State[22]:0.42, State[23]:0.50, State[24]:0.82, State[25]:0.67, State[26]:0.94, State[27]:0.00, State[28]:0.67, State[29]:0.80, State[30]:0.98, 
+
+SpeakerName: 1111
+MeanState:0.68,         State[1]:0.86, State[2]:0.84, State[3]:0.61, State[4]:0.74, State[5]:0.94, State[6]:0.71, State[7]:0.34, State[8]:0.81, State[9]:0.67, State[10]:0.71, State[11]:0.41, State[12]:0.61, State[13]:0.44, State[14]:0.20, State[15]:0.75, State[16]:0.73, State[17]:0.46, State[18]:0.77, State[19]:0.90, State[20]:0.20, State[21]:0.93, State[22]:0.57, State[23]:0.31, State[24]:0.89, State[25]:0.94, State[26]:0.83, State[27]:0.92, State[28]:0.71, State[29]:0.79, State[30]:0.94, 
+
+SpeakerName: 1112
+MeanState:0.70,         State[1]:0.91, State[2]:0.93, State[3]:0.81, State[4]:0.83, State[5]:0.78, State[6]:0.91, State[7]:0.43, State[8]:0.60, State[9]:0.90, State[10]:0.76, State[11]:0.36, State[12]:0.70, State[13]:0.53, State[14]:0.62, State[15]:0.36, State[16]:0.54, State[17]:0.86, State[18]:0.69, State[19]:0.74, State[20]:0.86, State[21]:0.59, State[22]:0.71, State[23]:0.21, State[24]:0.80, State[25]:1.00, State[26]:0.98, State[27]:0.43, State[28]:0.62, State[29]:0.50, State[30]:0.94, 
+
+SpeakerName: 1113
+MeanState:0.68,         State[1]:0.83, State[2]:0.84, State[3]:0.72, State[4]:0.70, State[5]:0.88, State[6]:0.75, State[7]:0.51, State[8]:0.63, State[9]:0.87, State[10]:0.64, State[11]:0.60, State[12]:0.64, State[13]:0.56, State[14]:0.21, State[15]:0.34, State[16]:0.67, State[17]:0.85, State[18]:0.69, State[19]:0.89, State[20]:0.62, State[21]:0.50, State[22]:0.77, State[23]:0.80, State[24]:0.93, State[25]:0.60, State[26]:0.86, State[27]:0.50, State[28]:0.29, State[29]:0.84, State[30]:0.87, 
+
+SpeakerName: 1114
+MeanState:0.71,         State[1]:0.90, State[2]:0.91, State[3]:0.78, State[4]:0.82, State[5]:0.90, State[6]:0.81, State[7]:0.50, State[8]:0.77, State[9]:0.73, State[10]:0.62, State[11]:0.55, State[12]:0.71, State[13]:0.66, State[14]:0.71, State[15]:0.46, State[16]:0.65, State[17]:0.57, State[18]:0.78, State[19]:0.80, State[20]:0.54, State[21]:0.71, State[22]:0.45, State[23]:0.35, State[24]:0.89, State[25]:0.87, State[26]:0.87, State[27]:0.83, State[28]:0.36, State[29]:0.84, State[30]:0.94, 
+
+SpeakerName: 1115
+MeanState:0.63,         State[1]:0.90, State[2]:0.85, State[3]:0.85, State[4]:0.75, State[5]:0.78, State[6]:0.81, State[7]:0.30, State[8]:0.36, State[9]:0.57, State[10]:0.61, State[11]:0.14, State[12]:0.44, State[13]:0.52, State[14]:0.21, State[15]:0.25, State[16]:0.71, State[17]:0.55, State[18]:0.76, State[19]:0.75, State[20]:0.63, State[21]:0.95, State[22]:0.42, State[23]:0.37, State[24]:0.91, State[25]:0.90, State[26]:0.96, State[27]:0.52, State[28]:0.28, State[29]:0.95, State[30]:0.98, 
+
+SpeakerName: 1116
+MeanState:0.74,         State[1]:0.94, State[2]:0.93, State[3]:0.88, State[4]:0.82, State[5]:0.95, State[6]:0.93, State[7]:0.46, State[8]:0.74, State[9]:0.93, State[10]:0.87, State[11]:0.48, State[12]:0.88, State[13]:0.78, State[14]:0.08, State[15]:0.85, State[16]:0.78, State[17]:0.38, State[18]:0.55, State[19]:0.78, State[20]:0.37, State[21]:0.69, State[22]:0.67, State[23]:0.64, State[24]:0.81, State[25]:0.91, State[26]:0.93, State[27]:0.91, State[28]:0.44, State[29]:0.96, State[30]:0.89, 
+
+SpeakerName: 1117
+MeanState:0.59,         State[1]:0.87, State[2]:0.82, State[3]:0.72, State[4]:0.76, State[5]:0.63, State[6]:0.80, State[7]:0.70, State[8]:0.56, State[9]:0.78, State[10]:0.64, State[11]:0.48, State[12]:0.70, State[13]:0.42, State[14]:0.27, State[15]:0.75, State[16]:0.27, State[17]:0.49, State[18]:0.30, State[19]:0.64, State[20]:0.10, State[21]:0.20, State[22]:0.25, State[23]:0.67, State[24]:0.77, State[25]:0.58, State[26]:0.82, State[27]:0.33, State[28]:0.56, State[29]:0.83, State[30]:0.90, 
+
+SpeakerName: 1118
+MeanState:0.68,         State[1]:0.90, State[2]:0.86, State[3]:0.84, State[4]:0.86, State[5]:0.89, State[6]:0.88, State[7]:0.45, State[8]:0.38, State[9]:0.82, State[10]:0.78, State[11]:0.56, State[12]:0.54, State[13]:0.62, State[14]:0.70, State[15]:0.58, State[16]:0.29, State[17]:0.53, State[18]:0.68, State[19]:0.47, State[20]:0.20, State[21]:0.83, State[22]:0.87, State[23]:0.33, State[24]:0.93, State[25]:0.68, State[26]:0.83, State[27]:1.00, State[28]:0.42, State[29]:0.75, State[30]:0.93, 
+
+SpeakerName: 1119
+MeanState:0.67,         State[1]:0.92, State[2]:0.89, State[3]:0.77, State[4]:0.84, State[5]:0.86, State[6]:0.66, State[7]:0.25, State[8]:0.59, State[9]:0.72, State[10]:0.69, State[11]:0.45, State[12]:0.44, State[13]:0.42, State[14]:0.37, State[15]:0.57, State[16]:0.54, State[17]:0.76, State[18]:0.79, State[19]:0.75, State[20]:0.20, State[21]:0.83, State[22]:0.69, State[23]:0.64, State[24]:0.86, State[25]:0.62, State[26]:0.91, State[27]:0.50, State[28]:0.74, State[29]:0.92, State[30]:0.89, 
+
+SpeakerName: 1120
+MeanState:0.69,         State[1]:0.91, State[2]:0.87, State[3]:0.68, State[4]:0.84, State[5]:0.78, State[6]:0.83, State[7]:0.44, State[8]:0.63, State[9]:0.74, State[10]:0.80, State[11]:0.48, State[12]:0.59, State[13]:0.57, State[14]:0.55, State[15]:0.67, State[16]:0.42, State[17]:0.78, State[18]:0.76, State[19]:0.84, State[20]:0.00, State[21]:0.89, State[22]:0.61, State[23]:0.57, State[24]:0.82, State[25]:0.67, State[26]:0.75, State[27]:0.50, State[28]:0.78, State[29]:0.87, State[30]:0.97, 
+
+SpeakerName: 1121
+MeanState:0.72,         State[1]:0.87, State[2]:0.76, State[3]:0.76, State[4]:0.84, State[5]:0.82, State[6]:0.85, State[7]:0.67, State[8]:0.85, State[9]:0.72, State[10]:0.64, State[11]:0.63, State[12]:0.69, State[13]:0.50, State[14]:0.40, State[15]:0.62, State[16]:0.53, State[17]:0.77, State[18]:0.71, State[19]:0.70, State[20]:0.62, State[21]:0.62, State[22]:0.95, State[23]:0.67, State[24]:0.84, State[25]:0.60, State[26]:0.91, State[27]:0.84, State[28]:0.55, State[29]:0.82, State[30]:0.96, 
+
+SpeakerName: 1122
+MeanState:0.65,         State[1]:0.83, State[2]:0.90, State[3]:0.73, State[4]:0.87, State[5]:0.87, State[6]:0.73, State[7]:0.40, State[8]:0.45, State[9]:0.69, State[10]:0.66, State[11]:0.17, State[12]:0.81, State[13]:0.52, State[14]:0.20, State[15]:0.87, State[16]:0.42, State[17]:0.58, State[18]:0.63, State[19]:0.75, State[20]:0.00, State[21]:0.83, State[22]:0.74, State[23]:0.44, State[24]:0.90, State[25]:0.80, State[26]:0.76, State[27]:0.80, State[28]:0.32, State[29]:0.95, State[30]:0.92, 
+
+SpeakerName: 1123
+MeanState:0.59,         State[1]:0.84, State[2]:0.82, State[3]:0.66, State[4]:0.70, State[5]:0.88, State[6]:0.78, State[7]:0.16, State[8]:0.65, State[9]:0.63, State[10]:0.57, State[11]:0.44, State[12]:0.49, State[13]:0.56, State[14]:1.00, State[15]:0.42, State[16]:0.42, State[17]:0.68, State[18]:0.57, State[19]:0.60, State[20]:0.00, State[21]:0.25, State[22]:0.83, State[23]:0.45, State[24]:0.81, State[25]:0.21, State[26]:0.85, State[27]:0.67, State[28]:0.35, State[29]:0.56, State[30]:0.98, 
+
+SpeakerName: 1124
+MeanState:0.70,         State[1]:0.87, State[2]:0.91, State[3]:0.77, State[4]:0.74, State[5]:0.78, State[6]:0.88, State[7]:0.33, State[8]:0.69, State[9]:0.85, State[10]:0.69, State[11]:0.52, State[12]:0.43, State[13]:0.80, State[14]:0.93, State[15]:0.58, State[16]:0.50, State[17]:0.80, State[18]:0.59, State[19]:0.78, State[20]:0.83, State[21]:0.91, State[22]:0.36, State[23]:0.30, State[24]:0.80, State[25]:0.90, State[26]:0.82, State[27]:0.44, State[28]:0.30, State[29]:0.84, State[30]:0.98, 
+
+SpeakerName: 1125
+MeanState:0.67,         State[1]:0.93, State[2]:0.92, State[3]:0.79, State[4]:0.84, State[5]:0.79, State[6]:0.88, State[7]:0.34, State[8]:0.64, State[9]:0.80, State[10]:0.80, State[11]:0.49, State[12]:0.49, State[13]:0.64, State[14]:0.26, State[15]:0.85, State[16]:0.32, State[17]:0.38, State[18]:0.73, State[19]:0.85, State[20]:0.12, State[21]:0.62, State[22]:0.61, State[23]:0.75, State[24]:0.91, State[25]:0.74, State[26]:0.92, State[27]:0.29, State[28]:0.67, State[29]:0.89, State[30]:0.96, 
+
+SpeakerName: 1126
+MeanState:0.72,         State[1]:0.88, State[2]:0.94, State[3]:0.72, State[4]:0.84, State[5]:0.81, State[6]:0.68, State[7]:0.00, State[8]:0.63, State[9]:0.71, State[10]:0.91, State[11]:0.40, State[12]:1.00, State[13]:0.52, State[14]:0.86, State[15]:0.44, State[16]:0.17, State[17]:0.76, State[18]:0.83, State[19]:0.88, State[20]:0.50, State[21]:0.69, State[22]:1.00, State[23]:0.40, State[24]:0.88, State[25]:0.85, State[26]:1.00, State[27]:0.83, State[28]:0.71, State[29]:0.87, State[30]:1.00, 
+
+SpeakerName: 1127
+MeanState:0.70,         State[1]:0.90, State[2]:0.90, State[3]:0.73, State[4]:0.87, State[5]:0.86, State[6]:0.84, State[7]:0.33, State[8]:0.66, State[9]:0.61, State[10]:0.65, State[11]:0.37, State[12]:0.57, State[13]:0.62, State[14]:0.45, State[15]:0.71, State[16]:0.25, State[17]:0.85, State[18]:0.65, State[19]:0.89, State[20]:0.10, State[21]:0.79, State[22]:0.93, State[23]:0.62, State[24]:0.92, State[25]:0.90, State[26]:0.96, State[27]:0.59, State[28]:0.61, State[29]:0.94, State[30]:0.97, 
+
+SpeakerName: 1128
+MeanState:0.69,         State[1]:0.91, State[2]:0.91, State[3]:0.82, State[4]:0.90, State[5]:0.77, State[6]:0.87, State[7]:0.37, State[8]:0.67, State[9]:0.84, State[10]:0.80, State[11]:0.44, State[12]:0.82, State[13]:0.88, State[14]:0.17, State[15]:0.50, State[16]:0.57, State[17]:0.95, State[18]:0.51, State[19]:0.77, State[20]:0.77, State[21]:0.37, State[22]:0.37, State[23]:0.94, State[24]:0.95, State[25]:0.49, State[26]:0.82, State[27]:0.29, State[28]:0.48, State[29]:0.86, State[30]:0.94, 
+
+SpeakerName: 1129
+MeanState:0.71,         State[1]:0.90, State[2]:0.86, State[3]:0.70, State[4]:0.81, State[5]:0.91, State[6]:0.79, State[7]:0.10, State[8]:0.77, State[9]:0.79, State[10]:0.71, State[11]:0.48, State[12]:0.35, State[13]:0.42, State[14]:0.62, State[15]:1.00, State[16]:0.25, State[17]:0.50, State[18]:0.70, State[19]:0.76, State[20]:0.83, State[21]:0.85, State[22]:0.79, State[23]:0.45, State[24]:0.92, State[25]:0.80, State[26]:0.96, State[27]:0.50, State[28]:0.89, State[29]:0.97, State[30]:0.98, 
+
+SpeakerName: 1130
+MeanState:0.70,         State[1]:0.90, State[2]:0.91, State[3]:0.78, State[4]:0.79, State[5]:0.71, State[6]:0.84, State[7]:0.49, State[8]:0.71, State[9]:0.86, State[10]:0.80, State[11]:0.32, State[12]:0.50, State[13]:0.32, State[14]:0.55, State[15]:0.75, State[16]:0.77, State[17]:0.67, State[18]:0.62, State[19]:0.79, State[20]:0.42, State[21]:0.83, State[22]:0.63, State[23]:0.89, State[24]:0.81, State[25]:0.83, State[26]:0.87, State[27]:0.50, State[28]:0.51, State[29]:0.78, State[30]:0.97, 
+
+SpeakerName: 1131
+MeanState:0.69,         State[1]:0.88, State[2]:0.87, State[3]:0.85, State[4]:0.77, State[5]:0.92, State[6]:0.80, State[7]:0.54, State[8]:0.52, State[9]:0.85, State[10]:0.67, State[11]:0.53, State[12]:0.45, State[13]:0.52, State[14]:0.33, State[15]:0.67, State[16]:0.36, State[17]:0.75, State[18]:0.52, State[19]:0.81, State[20]:0.43, State[21]:0.33, State[22]:0.97, State[23]:0.77, State[24]:0.92, State[25]:0.69, State[26]:0.84, State[27]:0.86, State[28]:0.54, State[29]:0.93, State[30]:0.95, 
+
+SpeakerName: 1132
+MeanState:0.64,         State[1]:0.88, State[2]:0.82, State[3]:0.77, State[4]:0.71, State[5]:0.42, State[6]:0.80, State[7]:0.00, State[8]:0.35, State[9]:0.63, State[10]:0.62, State[11]:0.45, State[12]:0.50, State[13]:0.34, State[14]:0.75, State[15]:0.12, State[16]:1.00, State[17]:0.71, State[18]:0.84, State[19]:0.86, State[20]:0.54, State[21]:0.42, State[22]:0.58, State[23]:0.43, State[24]:0.88, State[25]:0.81, State[26]:0.86, State[27]:0.57, State[28]:0.71, State[29]:0.84, State[30]:0.99, 
+
+SpeakerName: 1133
+MeanState:0.65,         State[1]:0.86, State[2]:0.91, State[3]:0.83, State[4]:0.90, State[5]:0.80, State[6]:0.88, State[7]:0.22, State[8]:0.58, State[9]:0.78, State[10]:0.77, State[11]:0.36, State[12]:0.57, State[13]:0.46, State[14]:0.17, State[15]:0.30, State[16]:0.10, State[17]:0.69, State[18]:0.49, State[19]:0.81, State[20]:0.25, State[21]:0.75, State[22]:0.75, State[23]:0.37, State[24]:0.90, State[25]:0.68, State[26]:0.82, State[27]:0.94, State[28]:0.58, State[29]:0.87, State[30]:0.98, 
+
+SpeakerName: 1134
+MeanState:0.70,         State[1]:0.81, State[2]:0.86, State[3]:0.69, State[4]:0.84, State[5]:0.70, State[6]:0.90, State[7]:0.17, State[8]:0.73, State[9]:0.78, State[10]:0.68, State[11]:0.10, State[12]:0.62, State[13]:0.54, State[14]:0.57, State[15]:0.37, State[16]:0.54, State[17]:0.80, State[18]:0.59, State[19]:0.82, State[20]:0.50, State[21]:0.81, State[22]:0.69, State[23]:0.83, State[24]:0.88, State[25]:0.69, State[26]:0.90, State[27]:0.80, State[28]:0.80, State[29]:0.90, State[30]:0.99, 
+
+SpeakerName: 1135
+MeanState:0.68,         State[1]:0.83, State[2]:0.93, State[3]:0.78, State[4]:0.70, State[5]:0.80, State[6]:0.91, State[7]:0.45, State[8]:0.56, State[9]:0.79, State[10]:0.76, State[11]:0.22, State[12]:0.56, State[13]:0.52, State[14]:0.48, State[15]:0.87, State[16]:0.32, State[17]:0.86, State[18]:0.51, State[19]:0.81, State[20]:0.37, State[21]:0.79, State[22]:0.78, State[23]:0.45, State[24]:0.86, State[25]:0.71, State[26]:0.88, State[27]:0.50, State[28]:0.52, State[29]:0.89, State[30]:0.97, 
+
+SpeakerName: 1136
+MeanState:0.68,         State[1]:0.86, State[2]:0.91, State[3]:0.76, State[4]:0.84, State[5]:0.39, State[6]:0.87, State[7]:0.58, State[8]:0.55, State[9]:0.61, State[10]:0.61, State[11]:0.42, State[12]:0.58, State[13]:0.42, State[14]:0.75, State[15]:0.25, State[16]:0.33, State[17]:0.87, State[18]:0.51, State[19]:0.94, State[20]:0.75, State[21]:0.50, State[22]:0.86, State[23]:0.55, State[24]:0.84, State[25]:0.87, State[26]:0.82, State[27]:0.43, State[28]:0.70, State[29]:0.97, State[30]:0.99, 
+
+SpeakerName: 1137
+MeanState:0.67,         State[1]:0.86, State[2]:0.91, State[3]:0.80, State[4]:0.66, State[5]:0.86, State[6]:0.81, State[7]:0.46, State[8]:0.21, State[9]:0.77, State[10]:0.89, State[11]:0.23, State[12]:0.61, State[13]:0.36, State[14]:0.50, State[15]:0.67, State[16]:0.90, State[17]:0.90, State[18]:0.55, State[19]:0.87, State[20]:0.25, State[21]:0.87, State[22]:0.00, State[23]:0.62, State[24]:0.84, State[25]:0.75, State[26]:0.85, State[27]:0.50, State[28]:0.71, State[29]:0.89, State[30]:0.95, 
+
+SpeakerName: 1138
+MeanState:0.72,         State[1]:0.87, State[2]:0.90, State[3]:0.72, State[4]:0.95, State[5]:0.95, State[6]:0.86, State[7]:0.22, State[8]:0.71, State[9]:0.72, State[10]:0.57, State[11]:0.29, State[12]:0.26, State[13]:0.55, State[14]:0.80, State[15]:0.55, State[16]:0.67, State[17]:0.84, State[18]:0.52, State[19]:0.80, State[20]:0.62, State[21]:0.78, State[22]:0.80, State[23]:0.95, State[24]:0.84, State[25]:0.80, State[26]:0.86, State[27]:0.73, State[28]:0.66, State[29]:1.00, State[30]:0.92, 
+
+SpeakerName: 1139
+MeanState:0.65,         State[1]:0.84, State[2]:0.91, State[3]:0.81, State[4]:0.87, State[5]:0.93, State[6]:0.76, State[7]:0.57, State[8]:0.14, State[9]:0.63, State[10]:0.52, State[11]:0.45, State[12]:0.35, State[13]:0.61, State[14]:0.67, State[15]:0.75, State[16]:0.31, State[17]:0.74, State[18]:0.52, State[19]:0.71, State[20]:0.55, State[21]:1.00, State[22]:0.25, State[23]:0.79, State[24]:0.81, State[25]:0.62, State[26]:0.79, State[27]:0.50, State[28]:0.38, State[29]:0.69, State[30]:0.98, 
+
+SpeakerName: 1140
+MeanState:0.68,         State[1]:0.83, State[2]:0.87, State[3]:0.64, State[4]:0.82, State[5]:0.93, State[6]:0.81, State[7]:0.23, State[8]:0.50, State[9]:0.66, State[10]:0.67, State[11]:0.55, State[12]:0.67, State[13]:0.36, State[14]:0.21, State[15]:0.72, State[16]:0.58, State[17]:0.77, State[18]:0.61, State[19]:0.76, State[20]:0.42, State[21]:0.81, State[22]:0.80, State[23]:0.60, State[24]:0.92, State[25]:0.76, State[26]:0.98, State[27]:0.42, State[28]:0.57, State[29]:0.87, State[30]:0.96, 
+
+SpeakerName: 1141
+MeanState:0.75,         State[1]:0.91, State[2]:0.88, State[3]:0.80, State[4]:0.87, State[5]:0.94, State[6]:0.88, State[7]:0.52, State[8]:0.58, State[9]:0.74, State[10]:0.74, State[11]:0.69, State[12]:0.65, State[13]:0.72, State[14]:0.90, State[15]:0.68, State[16]:1.00, State[17]:0.86, State[18]:0.67, State[19]:0.91, State[20]:0.25, State[21]:0.79, State[22]:0.37, State[23]:0.25, State[24]:0.77, State[25]:0.93, State[26]:0.93, State[27]:0.69, State[28]:0.75, State[29]:0.94, State[30]:0.98, 
+
+SpeakerName: 1142
+MeanState:0.61,         State[1]:0.91, State[2]:0.75, State[3]:0.69, State[4]:0.74, State[5]:0.93, State[6]:0.78, State[7]:0.20, State[8]:0.65, State[9]:0.72, State[10]:0.54, State[11]:0.29, State[12]:0.61, State[13]:0.55, State[14]:0.70, State[15]:0.25, State[16]:0.50, State[17]:0.54, State[18]:0.47, State[19]:0.87, State[20]:0.25, State[21]:0.67, State[22]:0.79, State[23]:0.00, State[24]:0.87, State[25]:0.88, State[26]:0.86, State[27]:0.06, State[28]:0.33, State[29]:0.82, State[30]:0.91, 
+
+SpeakerName: 1143
+MeanState:0.70,         State[1]:0.88, State[2]:0.93, State[3]:0.69, State[4]:0.76, State[5]:0.72, State[6]:0.78, State[7]:0.00, State[8]:0.69, State[9]:0.75, State[10]:0.70, State[11]:0.48, State[12]:0.58, State[13]:0.57, State[14]:0.71, State[15]:0.71, State[16]:0.83, State[17]:0.55, State[18]:0.68, State[19]:0.80, State[20]:0.70, State[21]:0.80, State[22]:0.50, State[23]:0.66, State[24]:0.95, State[25]:0.97, State[26]:0.94, State[27]:0.75, State[28]:0.24, State[29]:0.85, State[30]:0.95, 
+
+SpeakerName: 1144
+MeanState:0.68,         State[1]:0.95, State[2]:0.92, State[3]:0.68, State[4]:0.87, State[5]:0.94, State[6]:0.82, State[7]:0.46, State[8]:0.71, State[9]:0.75, State[10]:0.75, State[11]:0.58, State[12]:0.70, State[13]:0.48, State[14]:0.35, State[15]:0.12, State[16]:0.53, State[17]:0.61, State[18]:0.75, State[19]:0.95, State[20]:0.62, State[21]:0.70, State[22]:0.55, State[23]:0.27, State[24]:0.90, State[25]:0.72, State[26]:0.93, State[27]:0.50, State[28]:0.60, State[29]:0.77, State[30]:0.96, 
+
+SpeakerName: 1145
+MeanState:0.73,         State[1]:0.91, State[2]:0.87, State[3]:0.71, State[4]:0.71, State[5]:0.89, State[6]:0.85, State[7]:0.58, State[8]:0.69, State[9]:0.82, State[10]:0.78, State[11]:0.64, State[12]:0.85, State[13]:0.62, State[14]:0.37, State[15]:0.42, State[16]:0.33, State[17]:0.63, State[18]:0.68, State[19]:0.77, State[20]:0.50, State[21]:0.80, State[22]:0.79, State[23]:0.54, State[24]:0.93, State[25]:1.00, State[26]:0.90, State[27]:0.77, State[28]:0.71, State[29]:1.00, State[30]:0.94, 
+
+SpeakerName: 1146
+MeanState:0.68,         State[1]:0.79, State[2]:0.83, State[3]:0.72, State[4]:0.79, State[5]:0.78, State[6]:0.83, State[7]:0.26, State[8]:0.58, State[9]:0.69, State[10]:0.67, State[11]:0.40, State[12]:0.76, State[13]:0.40, State[14]:0.44, State[15]:0.75, State[16]:0.54, State[17]:0.78, State[18]:0.50, State[19]:0.88, State[20]:0.17, State[21]:0.95, State[22]:0.50, State[23]:0.50, State[24]:0.93, State[25]:0.83, State[26]:0.89, State[27]:0.93, State[28]:0.64, State[29]:0.83, State[30]:0.98, 
+
+SpeakerName: 1147
+MeanState:0.74,         State[1]:0.91, State[2]:0.88, State[3]:0.72, State[4]:0.80, State[5]:0.84, State[6]:0.80, State[7]:0.46, State[8]:0.72, State[9]:0.85, State[10]:0.75, State[11]:0.47, State[12]:0.74, State[13]:0.46, State[14]:0.86, State[15]:0.67, State[16]:0.42, State[17]:0.75, State[18]:0.52, State[19]:0.80, State[20]:0.62, State[21]:1.00, State[22]:0.85, State[23]:0.73, State[24]:0.84, State[25]:1.00, State[26]:0.90, State[27]:0.80, State[28]:0.28, State[29]:0.89, State[30]:0.96, 
+
+SpeakerName: 1148
+MeanState:0.61,         State[1]:0.83, State[2]:0.77, State[3]:0.70, State[4]:0.83, State[5]:0.89, State[6]:0.58, State[7]:0.44, State[8]:0.34, State[9]:0.61, State[10]:0.51, State[11]:0.31, State[12]:0.48, State[13]:0.52, State[14]:0.44, State[15]:0.83, State[16]:0.37, State[17]:0.67, State[18]:0.37, State[19]:0.87, State[20]:0.00, State[21]:0.83, State[22]:0.35, State[23]:0.60, State[24]:0.85, State[25]:0.47, State[26]:0.75, State[27]:1.00, State[28]:0.25, State[29]:0.90, State[30]:0.98, 
+
+SpeakerName: 1149
+MeanState:0.68,         State[1]:0.88, State[2]:0.84, State[3]:0.76, State[4]:0.67, State[5]:0.82, State[6]:0.82, State[7]:0.29, State[8]:0.75, State[9]:0.88, State[10]:0.52, State[11]:0.46, State[12]:0.51, State[13]:0.65, State[14]:0.58, State[15]:1.00, State[16]:0.31, State[17]:0.91, State[18]:0.65, State[19]:0.65, State[20]:0.87, State[21]:0.87, State[22]:0.17, State[23]:0.45, State[24]:0.93, State[25]:0.63, State[26]:0.77, State[27]:0.33, State[28]:0.82, State[29]:0.78, State[30]:0.93, 
+
+SpeakerName: 1150
+MeanState:0.62,         State[1]:0.79, State[2]:0.88, State[3]:0.62, State[4]:0.61, State[5]:0.33, State[6]:0.73, State[7]:0.33, State[8]:0.67, State[9]:0.78, State[10]:0.84, State[11]:0.50, State[12]:0.59, State[13]:0.55, State[14]:0.86, State[15]:0.00, State[16]:0.17, State[17]:0.77, State[18]:0.68, State[19]:0.68, State[20]:0.30, State[21]:0.37, State[22]:0.50, State[23]:0.42, State[24]:0.88, State[25]:0.78, State[26]:0.98, State[27]:1.00, State[28]:0.07, State[29]:0.82, State[30]:0.99, 
+
+SpeakerName: 1151
+MeanState:0.66,         State[1]:0.91, State[2]:0.88, State[3]:0.73, State[4]:0.76, State[5]:0.85, State[6]:0.82, State[7]:0.37, State[8]:0.77, State[9]:0.75, State[10]:0.65, State[11]:0.31, State[12]:0.58, State[13]:0.49, State[14]:0.00, State[15]:0.67, State[16]:0.63, State[17]:0.77, State[18]:0.51, State[19]:0.84, State[20]:0.12, State[21]:0.90, State[22]:0.36, State[23]:0.53, State[24]:0.85, State[25]:0.62, State[26]:0.86, State[27]:1.00, State[28]:0.43, State[29]:0.82, State[30]:0.99, 
+
+SpeakerName: 1152
+MeanState:0.67,         State[1]:0.86, State[2]:0.89, State[3]:0.71, State[4]:0.70, State[5]:0.44, State[6]:0.79, State[7]:0.37, State[8]:0.44, State[9]:0.73, State[10]:0.76, State[11]:0.35, State[12]:0.63, State[13]:0.74, State[14]:0.67, State[15]:0.50, State[16]:0.22, State[17]:0.30, State[18]:0.62, State[19]:0.91, State[20]:1.00, State[21]:0.93, State[22]:0.37, State[23]:1.00, State[24]:0.81, State[25]:0.74, State[26]:0.84, State[27]:0.75, State[28]:0.40, State[29]:0.73, State[30]:0.98, 
+
+SpeakerName: 1153
+MeanState:0.73,         State[1]:0.90, State[2]:0.92, State[3]:0.82, State[4]:0.86, State[5]:0.91, State[6]:0.86, State[7]:0.50, State[8]:0.63, State[9]:0.88, State[10]:0.85, State[11]:0.56, State[12]:0.57, State[13]:0.53, State[14]:0.45, State[15]:0.50, State[16]:0.54, State[17]:0.49, State[18]:0.79, State[19]:0.84, State[20]:0.45, State[21]:0.92, State[22]:0.65, State[23]:0.95, State[24]:0.90, State[25]:0.44, State[26]:0.92, State[27]:0.90, State[28]:0.77, State[29]:0.79, State[30]:0.88, 
+
+SpeakerName: 1154
+MeanState:0.71,         State[1]:0.94, State[2]:0.91, State[3]:0.88, State[4]:0.90, State[5]:0.85, State[6]:0.84, State[7]:0.52, State[8]:0.71, State[9]:0.81, State[10]:0.88, State[11]:0.73, State[12]:0.68, State[13]:0.53, State[14]:0.48, State[15]:0.67, State[16]:0.23, State[17]:0.64, State[18]:0.65, State[19]:0.75, State[20]:0.37, State[21]:0.43, State[22]:0.86, State[23]:0.77, State[24]:0.95, State[25]:0.84, State[26]:0.92, State[27]:0.46, State[28]:0.38, State[29]:0.86, State[30]:0.98, 
+
+SpeakerName: 1155
+MeanState:0.67,         State[1]:0.90, State[2]:0.88, State[3]:0.79, State[4]:0.76, State[5]:0.94, State[6]:0.60, State[7]:0.15, State[8]:0.63, State[9]:0.73, State[10]:0.62, State[11]:0.48, State[12]:0.32, State[13]:0.49, State[14]:0.56, State[15]:0.83, State[16]:0.76, State[17]:0.52, State[18]:0.60, State[19]:0.77, State[20]:0.33, State[21]:1.00, State[22]:0.79, State[23]:0.53, State[24]:0.81, State[25]:0.68, State[26]:0.90, State[27]:0.67, State[28]:0.43, State[29]:0.70, State[30]:0.94, 
+
+SpeakerName: 1156
+MeanState:0.75,         State[1]:0.92, State[2]:0.88, State[3]:0.78, State[4]:0.84, State[5]:0.75, State[6]:0.75, State[7]:0.48, State[8]:0.75, State[9]:0.81, State[10]:0.72, State[11]:0.46, State[12]:0.61, State[13]:0.61, State[14]:0.89, State[15]:0.67, State[16]:0.68, State[17]:0.67, State[18]:0.78, State[19]:0.87, State[20]:0.64, State[21]:0.76, State[22]:0.72, State[23]:0.33, State[24]:0.87, State[25]:0.88, State[26]:0.90, State[27]:0.87, State[28]:0.81, State[29]:0.93, State[30]:0.98, 
+
+SpeakerName: 1157
+MeanState:0.72,         State[1]:0.87, State[2]:0.83, State[3]:0.73, State[4]:0.76, State[5]:0.77, State[6]:0.93, State[7]:0.20, State[8]:0.31, State[9]:0.84, State[10]:0.84, State[11]:0.37, State[12]:0.76, State[13]:0.63, State[14]:0.30, State[15]:1.00, State[16]:0.53, State[17]:0.87, State[18]:0.72, State[19]:0.82, State[20]:0.00, State[21]:0.92, State[22]:0.51, State[23]:0.46, State[24]:0.93, State[25]:0.88, State[26]:0.93, State[27]:0.95, State[28]:0.90, State[29]:0.93, State[30]:0.95, 
+
+SpeakerName: 1158
+MeanState:0.72,         State[1]:0.87, State[2]:0.86, State[3]:0.77, State[4]:0.78, State[5]:0.48, State[6]:0.85, State[7]:0.29, State[8]:0.63, State[9]:0.93, State[10]:0.88, State[11]:0.59, State[12]:0.85, State[13]:0.41, State[14]:0.48, State[15]:0.70, State[16]:0.32, State[17]:0.79, State[18]:0.79, State[19]:0.80, State[20]:0.81, State[21]:0.90, State[22]:0.76, State[23]:0.36, State[24]:0.84, State[25]:0.75, State[26]:0.95, State[27]:0.50, State[28]:0.66, State[29]:0.94, State[30]:0.98, 
+
+SpeakerName: 1159
+MeanState:0.57,         State[1]:0.72, State[2]:0.85, State[3]:0.72, State[4]:0.86, State[5]:0.80, State[6]:0.40, State[7]:0.10, State[8]:0.33, State[9]:0.54, State[10]:0.65, State[11]:0.24, State[12]:0.31, State[13]:0.62, State[14]:0.42, State[15]:0.19, State[16]:0.00, State[17]:0.50, State[18]:0.62, State[19]:0.55, State[20]:0.58, State[21]:0.75, State[22]:1.00, State[23]:0.37, State[24]:0.87, State[25]:0.80, State[26]:0.89, State[27]:0.67, State[28]:0.17, State[29]:0.75, State[30]:0.99, 
+
+SpeakerName: 1160
+MeanState:0.68,         State[1]:0.91, State[2]:0.89, State[3]:0.73, State[4]:0.83, State[5]:0.86, State[6]:0.88, State[7]:0.22, State[8]:0.67, State[9]:0.84, State[10]:0.71, State[11]:0.39, State[12]:0.80, State[13]:0.49, State[14]:0.45, State[15]:0.75, State[16]:0.37, State[17]:0.95, State[18]:0.56, State[19]:0.71, State[20]:0.50, State[21]:0.82, State[22]:0.46, State[23]:0.59, State[24]:0.79, State[25]:0.49, State[26]:0.89, State[27]:0.19, State[28]:0.82, State[29]:0.95, State[30]:0.92, 
+
+SpeakerName: 1161
+MeanState:0.67,         State[1]:0.87, State[2]:0.89, State[3]:0.70, State[4]:0.86, State[5]:0.75, State[6]:0.76, State[7]:0.12, State[8]:0.47, State[9]:0.35, State[10]:0.58, State[11]:0.54, State[12]:0.43, State[13]:0.56, State[14]:0.75, State[15]:0.75, State[16]:0.22, State[17]:0.87, State[18]:0.65, State[19]:1.00, State[20]:0.33, State[21]:0.90, State[22]:0.83, State[23]:0.68, State[24]:0.88, State[25]:0.25, State[26]:0.93, State[27]:0.66, State[28]:0.50, State[29]:0.94, State[30]:0.95, 
+
+SpeakerName: 1162
+MeanState:0.66,         State[1]:0.78, State[2]:0.85, State[3]:0.66, State[4]:0.81, State[5]:0.81, State[6]:0.79, State[7]:0.36, State[8]:0.54, State[9]:0.80, State[10]:0.78, State[11]:0.45, State[12]:0.75, State[13]:0.57, State[14]:0.37, State[15]:0.50, State[16]:0.32, State[17]:0.42, State[18]:0.59, State[19]:0.76, State[20]:0.33, State[21]:0.65, State[22]:0.50, State[23]:0.70, State[24]:0.88, State[25]:0.82, State[26]:0.86, State[27]:0.25, State[28]:0.83, State[29]:0.95, State[30]:0.96, 
+
+SpeakerName: 1163
+MeanState:0.66,         State[1]:0.82, State[2]:0.90, State[3]:0.65, State[4]:0.70, State[5]:0.85, State[6]:0.68, State[7]:0.20, State[8]:0.29, State[9]:0.78, State[10]:0.67, State[11]:0.37, State[12]:0.58, State[13]:0.63, State[14]:0.25, State[15]:0.46, State[16]:1.00, State[17]:0.66, State[18]:0.53, State[19]:0.86, State[20]:0.30, State[21]:0.50, State[22]:0.87, State[23]:0.44, State[24]:0.90, State[25]:0.80, State[26]:0.85, State[27]:0.93, State[28]:0.36, State[29]:0.97, State[30]:0.92, 
+
+SpeakerName: 1164
+MeanState:0.68,         State[1]:0.83, State[2]:0.85, State[3]:0.64, State[4]:0.78, State[5]:0.81, State[6]:0.75, State[7]:0.10, State[8]:0.53, State[9]:0.74, State[10]:0.64, State[11]:0.50, State[12]:0.87, State[13]:0.51, State[14]:0.51, State[15]:0.62, State[16]:0.86, State[17]:0.83, State[18]:0.38, State[19]:0.75, State[20]:0.25, State[21]:0.88, State[22]:0.90, State[23]:0.39, State[24]:0.89, State[25]:0.66, State[26]:0.86, State[27]:0.50, State[28]:0.59, State[29]:0.90, State[30]:0.98, 
+
+SpeakerName: 1165
+MeanState:0.64,         State[1]:0.83, State[2]:0.89, State[3]:0.70, State[4]:0.63, State[5]:0.79, State[6]:0.74, State[7]:0.12, State[8]:0.69, State[9]:0.72, State[10]:0.72, State[11]:0.23, State[12]:0.46, State[13]:0.39, State[14]:0.81, State[15]:0.75, State[16]:0.46, State[17]:0.66, State[18]:0.63, State[19]:0.84, State[20]:0.83, State[21]:0.54, State[22]:0.25, State[23]:0.18, State[24]:0.86, State[25]:0.78, State[26]:0.89, State[27]:0.30, State[28]:0.68, State[29]:0.78, State[30]:0.97, 
+
+SpeakerName: 1166
+MeanState:0.71,         State[1]:0.84, State[2]:0.90, State[3]:0.76, State[4]:0.74, State[5]:0.94, State[6]:0.79, State[7]:0.31, State[8]:0.68, State[9]:0.69, State[10]:0.88, State[11]:0.47, State[12]:0.76, State[13]:0.63, State[14]:0.65, State[15]:0.46, State[16]:0.38, State[17]:0.72, State[18]:0.68, State[19]:0.81, State[20]:0.73, State[21]:0.87, State[22]:0.69, State[23]:0.79, State[24]:0.94, State[25]:0.83, State[26]:0.92, State[27]:0.33, State[28]:0.08, State[29]:0.92, State[30]:0.95, 
+
+SpeakerName: 1167
+MeanState:0.71,         State[1]:0.84, State[2]:0.86, State[3]:0.61, State[4]:0.79, State[5]:0.65, State[6]:0.66, State[7]:0.10, State[8]:0.63, State[9]:0.68, State[10]:0.66, State[11]:0.43, State[12]:0.55, State[13]:0.50, State[14]:0.80, State[15]:0.50, State[16]:0.90, State[17]:0.70, State[18]:0.88, State[19]:0.91, State[20]:0.42, State[21]:0.92, State[22]:0.70, State[23]:0.37, State[24]:0.95, State[25]:0.94, State[26]:0.77, State[27]:0.92, State[28]:0.90, State[29]:0.94, State[30]:0.91, 
+
+SpeakerName: 1168
+MeanState:0.75,         State[1]:0.94, State[2]:0.94, State[3]:0.87, State[4]:0.80, State[5]:0.79, State[6]:0.92, State[7]:0.61, State[8]:0.65, State[9]:0.81, State[10]:0.85, State[11]:0.53, State[12]:0.55, State[13]:0.77, State[14]:0.57, State[15]:0.75, State[16]:0.64, State[17]:0.49, State[18]:0.76, State[19]:0.77, State[20]:0.47, State[21]:0.79, State[22]:0.73, State[23]:0.90, State[24]:0.87, State[25]:0.87, State[26]:0.77, State[27]:0.50, State[28]:0.79, State[29]:0.94, State[30]:0.93, 
+
+SpeakerName: 1169
+MeanState:0.74,         State[1]:0.92, State[2]:0.90, State[3]:0.79, State[4]:0.74, State[5]:0.91, State[6]:0.91, State[7]:0.25, State[8]:0.75, State[9]:0.70, State[10]:0.85, State[11]:0.53, State[12]:0.57, State[13]:0.52, State[14]:0.33, State[15]:1.00, State[16]:0.42, State[17]:0.79, State[18]:0.66, State[19]:0.86, State[20]:0.29, State[21]:0.84, State[22]:0.90, State[23]:0.80, State[24]:0.94, State[25]:0.86, State[26]:0.91, State[27]:0.42, State[28]:0.81, State[29]:0.90, State[30]:0.98, 
+
+SpeakerName: 1170
+MeanState:0.62,         State[1]:0.88, State[2]:0.86, State[3]:0.66, State[4]:0.71, State[5]:0.84, State[6]:0.86, State[7]:0.04, State[8]:0.52, State[9]:0.75, State[10]:0.78, State[11]:0.52, State[12]:0.67, State[13]:0.54, State[14]:0.57, State[15]:0.53, State[16]:0.08, State[17]:0.44, State[18]:0.67, State[19]:0.88, State[20]:0.00, State[21]:0.37, State[22]:0.54, State[23]:0.73, State[24]:0.88, State[25]:0.94, State[26]:0.83, State[27]:0.50, State[28]:0.29, State[29]:0.67, State[30]:0.99, 
+
+SpeakerName: 1171
+MeanState:0.62,         State[1]:0.91, State[2]:0.84, State[3]:0.80, State[4]:0.83, State[5]:0.80, State[6]:0.78, State[7]:0.00, State[8]:0.58, State[9]:0.77, State[10]:0.65, State[11]:0.26, State[12]:0.70, State[13]:0.37, State[14]:0.37, State[15]:0.93, State[16]:0.42, State[17]:0.76, State[18]:0.60, State[19]:0.76, State[20]:0.33, State[21]:0.65, State[22]:0.67, State[23]:0.35, State[24]:0.93, State[25]:0.83, State[26]:0.85, State[27]:0.25, State[28]:0.17, State[29]:0.45, State[30]:0.95, 
+
+SpeakerName: 1172
+MeanState:0.70,         State[1]:0.89, State[2]:0.90, State[3]:0.77, State[4]:0.84, State[5]:0.95, State[6]:0.91, State[7]:0.21, State[8]:0.67, State[9]:0.90, State[10]:0.73, State[11]:0.49, State[12]:0.76, State[13]:0.51, State[14]:0.57, State[15]:0.61, State[16]:0.11, State[17]:0.60, State[18]:0.74, State[19]:0.85, State[20]:0.38, State[21]:0.74, State[22]:0.83, State[23]:0.67, State[24]:0.89, State[25]:0.81, State[26]:0.95, State[27]:0.25, State[28]:0.75, State[29]:0.87, State[30]:0.93, 
+
+SpeakerName: 1173
+MeanState:0.70,         State[1]:0.88, State[2]:0.92, State[3]:0.76, State[4]:0.92, State[5]:0.94, State[6]:0.94, State[7]:0.44, State[8]:0.70, State[9]:0.70, State[10]:0.65, State[11]:0.56, State[12]:0.71, State[13]:0.49, State[14]:0.67, State[15]:0.50, State[16]:0.83, State[17]:0.84, State[18]:0.74, State[19]:0.76, State[20]:0.10, State[21]:0.61, State[22]:0.18, State[23]:0.39, State[24]:0.83, State[25]:0.73, State[26]:0.86, State[27]:0.63, State[28]:0.83, State[29]:0.91, State[30]:0.95, 
+
+SpeakerName: 1174
+MeanState:0.67,         State[1]:0.90, State[2]:0.92, State[3]:0.71, State[4]:0.76, State[5]:0.69, State[6]:0.82, State[7]:0.46, State[8]:0.68, State[9]:0.72, State[10]:0.65, State[11]:0.50, State[12]:0.50, State[13]:0.56, State[14]:0.65, State[15]:0.33, State[16]:0.62, State[17]:0.84, State[18]:0.69, State[19]:0.78, State[20]:0.12, State[21]:0.41, State[22]:0.65, State[23]:0.71, State[24]:0.82, State[25]:0.85, State[26]:0.83, State[27]:0.42, State[28]:0.73, State[29]:0.86, State[30]:0.98, 
+
+SpeakerName: 1175
+MeanState:0.74,         State[1]:0.91, State[2]:0.88, State[3]:0.81, State[4]:0.65, State[5]:0.85, State[6]:0.93, State[7]:0.14, State[8]:0.84, State[9]:0.79, State[10]:0.89, State[11]:0.65, State[12]:0.63, State[13]:0.37, State[14]:0.94, State[15]:0.57, State[16]:0.63, State[17]:0.61, State[18]:0.83, State[19]:0.76, State[20]:0.21, State[21]:0.42, State[22]:1.00, State[23]:0.90, State[24]:0.82, State[25]:0.91, State[26]:0.84, State[27]:0.72, State[28]:0.86, State[29]:0.98, State[30]:0.89, 
+
+SpeakerName: 1176
+MeanState:0.68,         State[1]:0.79, State[2]:0.85, State[3]:0.78, State[4]:0.88, State[5]:0.83, State[6]:0.83, State[7]:0.27, State[8]:0.51, State[9]:0.75, State[10]:0.73, State[11]:0.50, State[12]:0.65, State[13]:0.50, State[14]:0.42, State[15]:0.25, State[16]:0.44, State[17]:0.80, State[18]:0.96, State[19]:0.80, State[20]:0.50, State[21]:0.83, State[22]:0.69, State[23]:0.29, State[24]:0.89, State[25]:0.63, State[26]:0.85, State[27]:1.00, State[28]:0.17, State[29]:1.00, State[30]:0.99, 
+
+SpeakerName: 1177
+MeanState:0.73,         State[1]:0.84, State[2]:0.88, State[3]:0.76, State[4]:0.91, State[5]:0.75, State[6]:0.74, State[7]:0.23, State[8]:0.77, State[9]:0.72, State[10]:0.60, State[11]:0.47, State[12]:0.87, State[13]:0.65, State[14]:0.70, State[15]:0.80, State[16]:0.34, State[17]:0.76, State[18]:0.72, State[19]:0.83, State[20]:0.25, State[21]:0.75, State[22]:0.80, State[23]:0.63, State[24]:0.94, State[25]:0.79, State[26]:0.86, State[27]:0.79, State[28]:0.73, State[29]:0.95, State[30]:0.99, 
+
+SpeakerName: 1178
+MeanState:0.76,         State[1]:0.92, State[2]:0.94, State[3]:0.79, State[4]:0.90, State[5]:0.98, State[6]:0.92, State[7]:0.42, State[8]:0.80, State[9]:0.73, State[10]:0.71, State[11]:0.64, State[12]:0.67, State[13]:0.57, State[14]:0.83, State[15]:0.75, State[16]:0.51, State[17]:0.76, State[18]:0.50, State[19]:0.85, State[20]:0.58, State[21]:0.81, State[22]:0.90, State[23]:0.94, State[24]:0.78, State[25]:0.64, State[26]:0.80, State[27]:0.71, State[28]:0.63, State[29]:0.77, State[30]:0.96, 
+
+SpeakerName: 1179
+MeanState:0.67,         State[1]:0.95, State[2]:0.82, State[3]:0.74, State[4]:0.87, State[5]:0.93, State[6]:0.86, State[7]:0.58, State[8]:0.42, State[9]:0.80, State[10]:0.83, State[11]:0.59, State[12]:0.35, State[13]:0.67, State[14]:0.00, State[15]:0.35, State[16]:0.20, State[17]:0.94, State[18]:0.61, State[19]:0.94, State[20]:0.51, State[21]:0.79, State[22]:0.75, State[23]:0.32, State[24]:0.93, State[25]:0.83, State[26]:0.81, State[27]:0.41, State[28]:0.89, State[29]:0.40, State[30]:0.90, 
+
+SpeakerName: 1180
+MeanState:0.68,         State[1]:0.90, State[2]:0.88, State[3]:0.68, State[4]:0.66, State[5]:0.78, State[6]:0.83, State[7]:0.60, State[8]:0.75, State[9]:0.83, State[10]:0.53, State[11]:0.47, State[12]:0.71, State[13]:0.60, State[14]:0.21, State[15]:0.25, State[16]:0.46, State[17]:0.87, State[18]:0.76, State[19]:0.81, State[20]:0.20, State[21]:0.54, State[22]:0.80, State[23]:0.89, State[24]:0.84, State[25]:0.70, State[26]:0.86, State[27]:0.87, State[28]:0.25, State[29]:0.80, State[30]:0.96, 
+
+SpeakerName: 1181
+MeanState:0.61,         State[1]:0.76, State[2]:0.80, State[3]:0.58, State[4]:0.67, State[5]:0.63, State[6]:0.70, State[7]:0.50, State[8]:0.50, State[9]:0.56, State[10]:0.64, State[11]:0.56, State[12]:0.32, State[13]:0.38, State[14]:0.07, State[15]:0.37, State[16]:0.65, State[17]:0.70, State[18]:0.60, State[19]:0.75, State[20]:0.00, State[21]:0.94, State[22]:0.57, State[23]:0.33, State[24]:0.84, State[25]:0.98, State[26]:0.93, State[27]:0.67, State[28]:0.77, State[29]:0.66, State[30]:1.00, 
+
+SpeakerName: 1182
+MeanState:0.74,         State[1]:0.91, State[2]:0.89, State[3]:0.78, State[4]:0.87, State[5]:0.88, State[6]:0.87, State[7]:0.56, State[8]:0.54, State[9]:0.77, State[10]:0.62, State[11]:0.43, State[12]:0.72, State[13]:0.55, State[14]:0.80, State[15]:0.61, State[16]:0.29, State[17]:0.66, State[18]:0.71, State[19]:0.83, State[20]:0.75, State[21]:1.00, State[22]:0.80, State[23]:0.47, State[24]:0.95, State[25]:0.80, State[26]:0.90, State[27]:0.56, State[28]:0.72, State[29]:0.93, State[30]:0.98, 
+
+SpeakerName: 1183
+MeanState:0.67,         State[1]:0.90, State[2]:0.90, State[3]:0.69, State[4]:0.82, State[5]:0.83, State[6]:0.94, State[7]:0.41, State[8]:0.43, State[9]:0.70, State[10]:0.51, State[11]:0.51, State[12]:0.50, State[13]:0.45, State[14]:0.33, State[15]:0.20, State[16]:0.25, State[17]:0.85, State[18]:0.79, State[19]:0.85, State[20]:0.75, State[21]:0.86, State[22]:0.81, State[23]:0.55, State[24]:0.77, State[25]:0.70, State[26]:0.81, State[27]:0.36, State[28]:0.62, State[29]:0.92, State[30]:0.98, 
